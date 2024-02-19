@@ -1,0 +1,15 @@
+C:\GeekBrains\SecondYear\1 Погружение в C#\2 Seminar\Task_3\bin\Debug\net8.0\Task_3.exe
+C:\GeekBrains\SecondYear\1 Погружение в C#\2 Seminar\Task_3\bin\Debug\net8.0\Task_3.deps.json
+C:\GeekBrains\SecondYear\1 Погружение в C#\2 Seminar\Task_3\bin\Debug\net8.0\Task_3.runtimeconfig.json
+C:\GeekBrains\SecondYear\1 Погружение в C#\2 Seminar\Task_3\bin\Debug\net8.0\Task_3.dll
+C:\GeekBrains\SecondYear\1 Погружение в C#\2 Seminar\Task_3\bin\Debug\net8.0\Task_3.pdb
+C:\GeekBrains\SecondYear\1 Погружение в C#\2 Seminar\Task_3\obj\Debug\net8.0\Task_3.GeneratedMSBuildEditorConfig.editorconfig
+C:\GeekBrains\SecondYear\1 Погружение в C#\2 Seminar\Task_3\obj\Debug\net8.0\Task_3.AssemblyInfoInputs.cache
+C:\GeekBrains\SecondYear\1 Погружение в C#\2 Seminar\Task_3\obj\Debug\net8.0\Task_3.AssemblyInfo.cs
+C:\GeekBrains\SecondYear\1 Погружение в C#\2 Seminar\Task_3\obj\Debug\net8.0\Task_3.csproj.CoreCompileInputs.cache
+C:\GeekBrains\SecondYear\1 Погружение в C#\2 Seminar\Task_3\obj\Debug\net8.0\Task_3.sourcelink.json
+C:\GeekBrains\SecondYear\1 Погружение в C#\2 Seminar\Task_3\obj\Debug\net8.0\Task_3.dll
+C:\GeekBrains\SecondYear\1 Погружение в C#\2 Seminar\Task_3\obj\Debug\net8.0\refint\Task_3.dll
+C:\GeekBrains\SecondYear\1 Погружение в C#\2 Seminar\Task_3\obj\Debug\net8.0\Task_3.pdb
+C:\GeekBrains\SecondYear\1 Погружение в C#\2 Seminar\Task_3\obj\Debug\net8.0\Task_3.genruntimeconfig.cache
+C:\GeekBrains\SecondYear\1 Погружение в C#\2 Seminar\Task_3\obj\Debug\net8.0\ref\Task_3.dll
