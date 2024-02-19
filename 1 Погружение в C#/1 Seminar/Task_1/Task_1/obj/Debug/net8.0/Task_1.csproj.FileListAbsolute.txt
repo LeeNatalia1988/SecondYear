@@ -1,0 +1,4 @@
+C:\GeekBrains\SecondYear\1 Погружение в C#\1 Seminar\Task_1\Task_1\obj\Debug\net8.0\Task_1.GeneratedMSBuildEditorConfig.editorconfig
+C:\GeekBrains\SecondYear\1 Погружение в C#\1 Seminar\Task_1\Task_1\obj\Debug\net8.0\Task_1.AssemblyInfoInputs.cache
+C:\GeekBrains\SecondYear\1 Погружение в C#\1 Seminar\Task_1\Task_1\obj\Debug\net8.0\Task_1.AssemblyInfo.cs
+C:\GeekBrains\SecondYear\1 Погружение в C#\1 Seminar\Task_1\Task_1\obj\Debug\net8.0\Task_1.csproj.CoreCompileInputs.cache
