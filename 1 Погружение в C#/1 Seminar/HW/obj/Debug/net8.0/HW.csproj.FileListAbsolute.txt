@@ -12,3 +12,4 @@ C:\GeekBrains\SecondYear\1 Погружение в C#\1 Seminar\HW\obj\Debug\net
 C:\GeekBrains\SecondYear\1 Погружение в C#\1 Seminar\HW\obj\Debug\net8.0\HW.pdb
 C:\GeekBrains\SecondYear\1 Погружение в C#\1 Seminar\HW\obj\Debug\net8.0\HW.genruntimeconfig.cache
 C:\GeekBrains\SecondYear\1 Погружение в C#\1 Seminar\HW\obj\Debug\net8.0\ref\HW.dll
+C:\GeekBrains\SecondYear\1 Погружение в C#\1 Seminar\HW\obj\Debug\net8.0\HW.sourcelink.json
