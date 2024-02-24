@@ -1,0 +1,15 @@
+C:\GeekBrains\SecondYear\2 Разработка приложений на C#\Seminar_1\HW\FamilyTree\obj\Debug\net8.0\FamilyTree.GeneratedMSBuildEditorConfig.editorconfig
+C:\GeekBrains\SecondYear\2 Разработка приложений на C#\Seminar_1\HW\FamilyTree\obj\Debug\net8.0\FamilyTree.AssemblyInfoInputs.cache
+C:\GeekBrains\SecondYear\2 Разработка приложений на C#\Seminar_1\HW\FamilyTree\obj\Debug\net8.0\FamilyTree.AssemblyInfo.cs
+C:\GeekBrains\SecondYear\2 Разработка приложений на C#\Seminar_1\HW\FamilyTree\obj\Debug\net8.0\FamilyTree.csproj.CoreCompileInputs.cache
+C:\GeekBrains\SecondYear\2 Разработка приложений на C#\Seminar_1\HW\FamilyTree\obj\Debug\net8.0\FamilyTree.sourcelink.json
+C:\GeekBrains\SecondYear\2 Разработка приложений на C#\Seminar_1\HW\FamilyTree\bin\Debug\net8.0\FamilyTree.exe
+C:\GeekBrains\SecondYear\2 Разработка приложений на C#\Seminar_1\HW\FamilyTree\bin\Debug\net8.0\FamilyTree.deps.json
+C:\GeekBrains\SecondYear\2 Разработка приложений на C#\Seminar_1\HW\FamilyTree\bin\Debug\net8.0\FamilyTree.runtimeconfig.json
+C:\GeekBrains\SecondYear\2 Разработка приложений на C#\Seminar_1\HW\FamilyTree\bin\Debug\net8.0\FamilyTree.dll
+C:\GeekBrains\SecondYear\2 Разработка приложений на C#\Seminar_1\HW\FamilyTree\bin\Debug\net8.0\FamilyTree.pdb
+C:\GeekBrains\SecondYear\2 Разработка приложений на C#\Seminar_1\HW\FamilyTree\obj\Debug\net8.0\FamilyTree.dll
+C:\GeekBrains\SecondYear\2 Разработка приложений на C#\Seminar_1\HW\FamilyTree\obj\Debug\net8.0\refint\FamilyTree.dll
+C:\GeekBrains\SecondYear\2 Разработка приложений на C#\Seminar_1\HW\FamilyTree\obj\Debug\net8.0\FamilyTree.pdb
+C:\GeekBrains\SecondYear\2 Разработка приложений на C#\Seminar_1\HW\FamilyTree\obj\Debug\net8.0\FamilyTree.genruntimeconfig.cache
+C:\GeekBrains\SecondYear\2 Разработка приложений на C#\Seminar_1\HW\FamilyTree\obj\Debug\net8.0\ref\FamilyTree.dll

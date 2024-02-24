@@ -1,0 +1,114 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\GeekBrains\\SecondYear\\2 \u0420\u0430\u0437\u0440\u0430\u0431\u043E\u0442\u043A\u0430 \u043F\u0440\u0438\u043B\u043E\u0436\u0435\u043D\u0438\u0439 \u043D\u0430 C#\\Seminar_1\\HW\\FamilyTree\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{657E07E5-A8FD-4E87-8813-12BCFDC34EB4}|FamilyTree.csproj|c:\\geekbrains\\secondyear\\2 \u0440\u0430\u0437\u0440\u0430\u0431\u043E\u0442\u043A\u0430 \u043F\u0440\u0438\u043B\u043E\u0436\u0435\u043D\u0438\u0439 \u043D\u0430 c#\\seminar_1\\hw\\familytree\\view\\searchview.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{657E07E5-A8FD-4E87-8813-12BCFDC34EB4}|FamilyTree.csproj|solutionrelative:view\\searchview.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{657E07E5-A8FD-4E87-8813-12BCFDC34EB4}|FamilyTree.csproj|c:\\geekbrains\\secondyear\\2 \u0440\u0430\u0437\u0440\u0430\u0431\u043E\u0442\u043A\u0430 \u043F\u0440\u0438\u043B\u043E\u0436\u0435\u043D\u0438\u0439 \u043D\u0430 c#\\seminar_1\\hw\\familytree\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{657E07E5-A8FD-4E87-8813-12BCFDC34EB4}|FamilyTree.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{657E07E5-A8FD-4E87-8813-12BCFDC34EB4}|FamilyTree.csproj|c:\\geekbrains\\secondyear\\2 \u0440\u0430\u0437\u0440\u0430\u0431\u043E\u0442\u043A\u0430 \u043F\u0440\u0438\u043B\u043E\u0436\u0435\u043D\u0438\u0439 \u043D\u0430 c#\\seminar_1\\hw\\familytree\\service\\familytreeservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{657E07E5-A8FD-4E87-8813-12BCFDC34EB4}|FamilyTree.csproj|solutionrelative:service\\familytreeservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{657E07E5-A8FD-4E87-8813-12BCFDC34EB4}|FamilyTree.csproj|c:\\geekbrains\\secondyear\\2 \u0440\u0430\u0437\u0440\u0430\u0431\u043E\u0442\u043A\u0430 \u043F\u0440\u0438\u043B\u043E\u0436\u0435\u043D\u0438\u0439 \u043D\u0430 c#\\seminar_1\\hw\\familytree\\model\\gender.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{657E07E5-A8FD-4E87-8813-12BCFDC34EB4}|FamilyTree.csproj|solutionrelative:model\\gender.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{657E07E5-A8FD-4E87-8813-12BCFDC34EB4}|FamilyTree.csproj|c:\\geekbrains\\secondyear\\2 \u0440\u0430\u0437\u0440\u0430\u0431\u043E\u0442\u043A\u0430 \u043F\u0440\u0438\u043B\u043E\u0436\u0435\u043D\u0438\u0439 \u043D\u0430 c#\\seminar_1\\hw\\familytree\\model\\familymember.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{657E07E5-A8FD-4E87-8813-12BCFDC34EB4}|FamilyTree.csproj|solutionrelative:model\\familymember.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "FamilyMember.cs",
+              "DocumentMoniker": "C:\\GeekBrains\\SecondYear\\2 \u0420\u0430\u0437\u0440\u0430\u0431\u043E\u0442\u043A\u0430 \u043F\u0440\u0438\u043B\u043E\u0436\u0435\u043D\u0438\u0439 \u043D\u0430 C#\\Seminar_1\\HW\\FamilyTree\\Model\\FamilyMember.cs",
+              "RelativeDocumentMoniker": "Model\\FamilyMember.cs",
+              "ToolTip": "C:\\GeekBrains\\SecondYear\\2 \u0420\u0430\u0437\u0440\u0430\u0431\u043E\u0442\u043A\u0430 \u043F\u0440\u0438\u043B\u043E\u0436\u0435\u043D\u0438\u0439 \u043D\u0430 C#\\Seminar_1\\HW\\FamilyTree\\Model\\FamilyMember.cs",
+              "RelativeToolTip": "Model\\FamilyMember.cs",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAYwBYAAAB5AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-24T07:51:04.904Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c64b9c2-e352-428e-a56d-0ace190b99a6}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Gender.cs",
+              "DocumentMoniker": "C:\\GeekBrains\\SecondYear\\2 \u0420\u0430\u0437\u0440\u0430\u0431\u043E\u0442\u043A\u0430 \u043F\u0440\u0438\u043B\u043E\u0436\u0435\u043D\u0438\u0439 \u043D\u0430 C#\\Seminar_1\\HW\\FamilyTree\\Model\\Gender.cs",
+              "RelativeDocumentMoniker": "Model\\Gender.cs",
+              "ToolTip": "C:\\GeekBrains\\SecondYear\\2 \u0420\u0430\u0437\u0440\u0430\u0431\u043E\u0442\u043A\u0430 \u043F\u0440\u0438\u043B\u043E\u0436\u0435\u043D\u0438\u0439 \u043D\u0430 C#\\Seminar_1\\HW\\FamilyTree\\Model\\Gender.cs",
+              "RelativeToolTip": "Model\\Gender.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-24T07:50:35.813Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "FamilyTreeService.cs",
+              "DocumentMoniker": "C:\\GeekBrains\\SecondYear\\2 \u0420\u0430\u0437\u0440\u0430\u0431\u043E\u0442\u043A\u0430 \u043F\u0440\u0438\u043B\u043E\u0436\u0435\u043D\u0438\u0439 \u043D\u0430 C#\\Seminar_1\\HW\\FamilyTree\\Service\\FamilyTreeService.cs",
+              "RelativeDocumentMoniker": "Service\\FamilyTreeService.cs",
+              "ToolTip": "C:\\GeekBrains\\SecondYear\\2 \u0420\u0430\u0437\u0440\u0430\u0431\u043E\u0442\u043A\u0430 \u043F\u0440\u0438\u043B\u043E\u0436\u0435\u043D\u0438\u0439 \u043D\u0430 C#\\Seminar_1\\HW\\FamilyTree\\Service\\FamilyTreeService.cs",
+              "RelativeToolTip": "Service\\FamilyTreeService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAB0AAABCAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-24T07:49:42.72Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "SearchView.cs",
+              "DocumentMoniker": "C:\\GeekBrains\\SecondYear\\2 \u0420\u0430\u0437\u0440\u0430\u0431\u043E\u0442\u043A\u0430 \u043F\u0440\u0438\u043B\u043E\u0436\u0435\u043D\u0438\u0439 \u043D\u0430 C#\\Seminar_1\\HW\\FamilyTree\\View\\SearchView.cs",
+              "RelativeDocumentMoniker": "View\\SearchView.cs",
+              "ToolTip": "C:\\GeekBrains\\SecondYear\\2 \u0420\u0430\u0437\u0440\u0430\u0431\u043E\u0442\u043A\u0430 \u043F\u0440\u0438\u043B\u043E\u0436\u0435\u043D\u0438\u0439 \u043D\u0430 C#\\Seminar_1\\HW\\FamilyTree\\View\\SearchView.cs",
+              "RelativeToolTip": "View\\SearchView.cs",
+              "ViewState": "AQIAABUAAAAAAAAAAAAYwB4AAAAfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-24T07:35:08.644Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\GeekBrains\\SecondYear\\2 \u0420\u0430\u0437\u0440\u0430\u0431\u043E\u0442\u043A\u0430 \u043F\u0440\u0438\u043B\u043E\u0436\u0435\u043D\u0438\u0439 \u043D\u0430 C#\\Seminar_1\\HW\\FamilyTree\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\GeekBrains\\SecondYear\\2 \u0420\u0430\u0437\u0440\u0430\u0431\u043E\u0442\u043A\u0430 \u043F\u0440\u0438\u043B\u043E\u0436\u0435\u043D\u0438\u0439 \u043D\u0430 C#\\Seminar_1\\HW\\FamilyTree\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AQIAAGoAAAAAAAAAAAAQwHYAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-24T07:30:05.692Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
