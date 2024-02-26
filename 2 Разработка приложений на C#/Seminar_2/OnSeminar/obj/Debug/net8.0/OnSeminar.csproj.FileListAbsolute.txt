@@ -1,0 +1,15 @@
+C:\GeekBrains\SecondYear\2 Разработка приложений на C#\Seminar_2\OnSeminar\bin\Debug\net8.0\OnSeminar.exe
+C:\GeekBrains\SecondYear\2 Разработка приложений на C#\Seminar_2\OnSeminar\bin\Debug\net8.0\OnSeminar.deps.json
+C:\GeekBrains\SecondYear\2 Разработка приложений на C#\Seminar_2\OnSeminar\bin\Debug\net8.0\OnSeminar.runtimeconfig.json
+C:\GeekBrains\SecondYear\2 Разработка приложений на C#\Seminar_2\OnSeminar\bin\Debug\net8.0\OnSeminar.dll
+C:\GeekBrains\SecondYear\2 Разработка приложений на C#\Seminar_2\OnSeminar\bin\Debug\net8.0\OnSeminar.pdb
+C:\GeekBrains\SecondYear\2 Разработка приложений на C#\Seminar_2\OnSeminar\obj\Debug\net8.0\OnSeminar.GeneratedMSBuildEditorConfig.editorconfig
+C:\GeekBrains\SecondYear\2 Разработка приложений на C#\Seminar_2\OnSeminar\obj\Debug\net8.0\OnSeminar.AssemblyInfoInputs.cache
+C:\GeekBrains\SecondYear\2 Разработка приложений на C#\Seminar_2\OnSeminar\obj\Debug\net8.0\OnSeminar.AssemblyInfo.cs
+C:\GeekBrains\SecondYear\2 Разработка приложений на C#\Seminar_2\OnSeminar\obj\Debug\net8.0\OnSeminar.csproj.CoreCompileInputs.cache
+C:\GeekBrains\SecondYear\2 Разработка приложений на C#\Seminar_2\OnSeminar\obj\Debug\net8.0\OnSeminar.sourcelink.json
+C:\GeekBrains\SecondYear\2 Разработка приложений на C#\Seminar_2\OnSeminar\obj\Debug\net8.0\OnSeminar.dll
+C:\GeekBrains\SecondYear\2 Разработка приложений на C#\Seminar_2\OnSeminar\obj\Debug\net8.0\refint\OnSeminar.dll
+C:\GeekBrains\SecondYear\2 Разработка приложений на C#\Seminar_2\OnSeminar\obj\Debug\net8.0\OnSeminar.pdb
+C:\GeekBrains\SecondYear\2 Разработка приложений на C#\Seminar_2\OnSeminar\obj\Debug\net8.0\OnSeminar.genruntimeconfig.cache
+C:\GeekBrains\SecondYear\2 Разработка приложений на C#\Seminar_2\OnSeminar\obj\Debug\net8.0\ref\OnSeminar.dll
