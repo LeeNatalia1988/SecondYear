@@ -1,0 +1,17 @@
+C:\GeekBrains\SecondYear\2 Разработка приложений на C#\Seminar_6\CalculatorForm\bin\Debug\net8.0-windows\CalculatorForm.exe
+C:\GeekBrains\SecondYear\2 Разработка приложений на C#\Seminar_6\CalculatorForm\bin\Debug\net8.0-windows\CalculatorForm.deps.json
+C:\GeekBrains\SecondYear\2 Разработка приложений на C#\Seminar_6\CalculatorForm\bin\Debug\net8.0-windows\CalculatorForm.runtimeconfig.json
+C:\GeekBrains\SecondYear\2 Разработка приложений на C#\Seminar_6\CalculatorForm\bin\Debug\net8.0-windows\CalculatorForm.dll
+C:\GeekBrains\SecondYear\2 Разработка приложений на C#\Seminar_6\CalculatorForm\bin\Debug\net8.0-windows\CalculatorForm.pdb
+C:\GeekBrains\SecondYear\2 Разработка приложений на C#\Seminar_6\CalculatorForm\obj\Debug\net8.0-windows\CalculatorForm.Form1.resources
+C:\GeekBrains\SecondYear\2 Разработка приложений на C#\Seminar_6\CalculatorForm\obj\Debug\net8.0-windows\CalculatorForm.csproj.GenerateResource.cache
+C:\GeekBrains\SecondYear\2 Разработка приложений на C#\Seminar_6\CalculatorForm\obj\Debug\net8.0-windows\CalculatorForm.GeneratedMSBuildEditorConfig.editorconfig
+C:\GeekBrains\SecondYear\2 Разработка приложений на C#\Seminar_6\CalculatorForm\obj\Debug\net8.0-windows\CalculatorForm.AssemblyInfoInputs.cache
+C:\GeekBrains\SecondYear\2 Разработка приложений на C#\Seminar_6\CalculatorForm\obj\Debug\net8.0-windows\CalculatorForm.AssemblyInfo.cs
+C:\GeekBrains\SecondYear\2 Разработка приложений на C#\Seminar_6\CalculatorForm\obj\Debug\net8.0-windows\CalculatorForm.csproj.CoreCompileInputs.cache
+C:\GeekBrains\SecondYear\2 Разработка приложений на C#\Seminar_6\CalculatorForm\obj\Debug\net8.0-windows\CalculatorForm.sourcelink.json
+C:\GeekBrains\SecondYear\2 Разработка приложений на C#\Seminar_6\CalculatorForm\obj\Debug\net8.0-windows\CalculatorForm.dll
+C:\GeekBrains\SecondYear\2 Разработка приложений на C#\Seminar_6\CalculatorForm\obj\Debug\net8.0-windows\refint\CalculatorForm.dll
+C:\GeekBrains\SecondYear\2 Разработка приложений на C#\Seminar_6\CalculatorForm\obj\Debug\net8.0-windows\CalculatorForm.pdb
+C:\GeekBrains\SecondYear\2 Разработка приложений на C#\Seminar_6\CalculatorForm\obj\Debug\net8.0-windows\CalculatorForm.genruntimeconfig.cache
+C:\GeekBrains\SecondYear\2 Разработка приложений на C#\Seminar_6\CalculatorForm\obj\Debug\net8.0-windows\ref\CalculatorForm.dll
