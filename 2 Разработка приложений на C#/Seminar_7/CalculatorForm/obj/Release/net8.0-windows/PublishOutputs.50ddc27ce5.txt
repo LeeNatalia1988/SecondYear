@@ -1,0 +1,5 @@
+C:\Users\mosal\Desktop\Новая папка\CalculatorForm.exe
+C:\Users\mosal\Desktop\Новая папка\CalculatorForm.dll
+C:\Users\mosal\Desktop\Новая папка\CalculatorForm.deps.json
+C:\Users\mosal\Desktop\Новая папка\CalculatorForm.runtimeconfig.json
+C:\Users\mosal\Desktop\Новая папка\CalculatorForm.pdb

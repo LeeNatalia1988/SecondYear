@@ -1,0 +1,17 @@
+C:\GeekBrains\SecondYear\2 Разработка приложений на C#\Seminar_6\CalculatorForm\bin\Release\net8.0-windows\win-x64\CalculatorForm.exe
+C:\GeekBrains\SecondYear\2 Разработка приложений на C#\Seminar_6\CalculatorForm\bin\Release\net8.0-windows\win-x64\CalculatorForm.deps.json
+C:\GeekBrains\SecondYear\2 Разработка приложений на C#\Seminar_6\CalculatorForm\bin\Release\net8.0-windows\win-x64\CalculatorForm.runtimeconfig.json
+C:\GeekBrains\SecondYear\2 Разработка приложений на C#\Seminar_6\CalculatorForm\bin\Release\net8.0-windows\win-x64\CalculatorForm.dll
+C:\GeekBrains\SecondYear\2 Разработка приложений на C#\Seminar_6\CalculatorForm\bin\Release\net8.0-windows\win-x64\CalculatorForm.pdb
+C:\GeekBrains\SecondYear\2 Разработка приложений на C#\Seminar_6\CalculatorForm\obj\Release\net8.0-windows\win-x64\CalculatorForm.MyCalculator.resources
+C:\GeekBrains\SecondYear\2 Разработка приложений на C#\Seminar_6\CalculatorForm\obj\Release\net8.0-windows\win-x64\CalculatorForm.csproj.GenerateResource.cache
+C:\GeekBrains\SecondYear\2 Разработка приложений на C#\Seminar_6\CalculatorForm\obj\Release\net8.0-windows\win-x64\CalculatorForm.GeneratedMSBuildEditorConfig.editorconfig
+C:\GeekBrains\SecondYear\2 Разработка приложений на C#\Seminar_6\CalculatorForm\obj\Release\net8.0-windows\win-x64\CalculatorForm.AssemblyInfoInputs.cache
+C:\GeekBrains\SecondYear\2 Разработка приложений на C#\Seminar_6\CalculatorForm\obj\Release\net8.0-windows\win-x64\CalculatorForm.AssemblyInfo.cs
+C:\GeekBrains\SecondYear\2 Разработка приложений на C#\Seminar_6\CalculatorForm\obj\Release\net8.0-windows\win-x64\CalculatorForm.csproj.CoreCompileInputs.cache
+C:\GeekBrains\SecondYear\2 Разработка приложений на C#\Seminar_6\CalculatorForm\obj\Release\net8.0-windows\win-x64\CalculatorForm.sourcelink.json
+C:\GeekBrains\SecondYear\2 Разработка приложений на C#\Seminar_6\CalculatorForm\obj\Release\net8.0-windows\win-x64\CalculatorForm.dll
+C:\GeekBrains\SecondYear\2 Разработка приложений на C#\Seminar_6\CalculatorForm\obj\Release\net8.0-windows\win-x64\refint\CalculatorForm.dll
+C:\GeekBrains\SecondYear\2 Разработка приложений на C#\Seminar_6\CalculatorForm\obj\Release\net8.0-windows\win-x64\CalculatorForm.pdb
+C:\GeekBrains\SecondYear\2 Разработка приложений на C#\Seminar_6\CalculatorForm\obj\Release\net8.0-windows\win-x64\CalculatorForm.genruntimeconfig.cache
+C:\GeekBrains\SecondYear\2 Разработка приложений на C#\Seminar_6\CalculatorForm\obj\Release\net8.0-windows\win-x64\ref\CalculatorForm.dll

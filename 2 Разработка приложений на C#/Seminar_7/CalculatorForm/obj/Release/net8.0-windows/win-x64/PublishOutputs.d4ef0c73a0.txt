@@ -1,0 +1,2 @@
+C:\GeekBrains\SecondYear\2 Разработка приложений на C#\Seminar_7\CalculatorForm.pdb
+C:\GeekBrains\SecondYear\2 Разработка приложений на C#\Seminar_7\CalculatorForm.exe
