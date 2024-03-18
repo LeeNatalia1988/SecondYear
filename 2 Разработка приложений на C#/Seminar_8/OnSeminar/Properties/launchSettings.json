@@ -1,0 +1,13 @@
+{
+  "profiles": {
+    "OnSeminar": {
+      "commandName": "Project",
+      "commandLineArgs": "file1.txt Что",
+      "workingDirectory": "C:\\GeekBrains\\SecondYear\\2 Разработка приложений на C#\\Seminar_8\\OnSeminar"
+    },
+    "WSL": {
+      "commandName": "WSL2",
+      "distributionName": ""
+    }
+  }
+}

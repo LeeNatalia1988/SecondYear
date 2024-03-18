@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "HW": {
+      "commandName": "Project",
+      "commandLineArgs": "\"C:\\GeekBrains\\SecondYear\\2 Разработка приложений на C#\" \"txt\" \"Hi\""
+    }
+  }
+}
