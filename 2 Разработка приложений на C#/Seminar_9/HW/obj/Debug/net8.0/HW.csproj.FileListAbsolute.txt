@@ -1,0 +1,15 @@
+C:\GeekBrains\SecondYear\2 Разработка приложений на C#\Seminar_9\HW\bin\Debug\net8.0\HW.exe
+C:\GeekBrains\SecondYear\2 Разработка приложений на C#\Seminar_9\HW\bin\Debug\net8.0\HW.deps.json
+C:\GeekBrains\SecondYear\2 Разработка приложений на C#\Seminar_9\HW\bin\Debug\net8.0\HW.runtimeconfig.json
+C:\GeekBrains\SecondYear\2 Разработка приложений на C#\Seminar_9\HW\bin\Debug\net8.0\HW.dll
+C:\GeekBrains\SecondYear\2 Разработка приложений на C#\Seminar_9\HW\bin\Debug\net8.0\HW.pdb
+C:\GeekBrains\SecondYear\2 Разработка приложений на C#\Seminar_9\HW\obj\Debug\net8.0\HW.GeneratedMSBuildEditorConfig.editorconfig
+C:\GeekBrains\SecondYear\2 Разработка приложений на C#\Seminar_9\HW\obj\Debug\net8.0\HW.AssemblyInfoInputs.cache
+C:\GeekBrains\SecondYear\2 Разработка приложений на C#\Seminar_9\HW\obj\Debug\net8.0\HW.AssemblyInfo.cs
+C:\GeekBrains\SecondYear\2 Разработка приложений на C#\Seminar_9\HW\obj\Debug\net8.0\HW.csproj.CoreCompileInputs.cache
+C:\GeekBrains\SecondYear\2 Разработка приложений на C#\Seminar_9\HW\obj\Debug\net8.0\HW.sourcelink.json
+C:\GeekBrains\SecondYear\2 Разработка приложений на C#\Seminar_9\HW\obj\Debug\net8.0\HW.dll
+C:\GeekBrains\SecondYear\2 Разработка приложений на C#\Seminar_9\HW\obj\Debug\net8.0\refint\HW.dll
+C:\GeekBrains\SecondYear\2 Разработка приложений на C#\Seminar_9\HW\obj\Debug\net8.0\HW.pdb
+C:\GeekBrains\SecondYear\2 Разработка приложений на C#\Seminar_9\HW\obj\Debug\net8.0\HW.genruntimeconfig.cache
+C:\GeekBrains\SecondYear\2 Разработка приложений на C#\Seminar_9\HW\obj\Debug\net8.0\ref\HW.dll
