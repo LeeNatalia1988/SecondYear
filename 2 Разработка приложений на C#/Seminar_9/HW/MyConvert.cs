@@ -5,6 +5,7 @@ using System.Text;
 using System.Text.Json;
 using System.Threading.Tasks;
 using System.Xml;
+using System.Xml.Linq;
 
 namespace HW
 {
@@ -25,42 +26,58 @@ namespace HW
             setting.Indent = true;
             setting.IndentChars = "\t";
             setting.NewLineChars = "\n";
-                      
+
             using XmlWriter writer = XmlWriter.Create(Console.Out, setting);
             xmlDoc.Save(writer);
         }
 
 
-        //Конвертация данных, а объктов и массивов рекурсивно
-        private void ConvertJsonToXml(JsonElement jEl, XmlNode xmlNode)
+        //Конвертация данных, а объктов и массивов рекурсивно, функции см ниже
+        private static void ConvertJsonToXml(JsonElement jEl, XmlNode xmlNode)
         {
             switch (jEl.ValueKind)
             {
                 case JsonValueKind.Object:
-                    foreach (var property in jEl.EnumerateObject())
-                    {
-                        var newEl = xmlNode.OwnerDocument?.CreateElement(property.Name);
-                        if (newEl != null)
-                        {
-                            xmlNode.AppendChild(newEl);
-                            ConvertJsonToXml(property.Value, newEl);
-                        }
-                    }
+                    ConvertObject(jEl, xmlNode);
                     break;
 
                 case JsonValueKind.Array:
-                    foreach (var value in jEl.EnumerateArray())
-                    {
-                        ConvertJsonToXml(value, xmlNode);
-                    }
+                    ConvertArray(jEl, xmlNode);
                     break;
 
                 default:
-                    var textNode = xmlNode.OwnerDocument?.CreateTextNode(jEl.ToString());
-                    if (textNode != null)
-                        xmlNode.AppendChild(textNode);
+                    ConvertAny(jEl, xmlNode);
                     break;
             }
+        }
+
+        //Для объектов
+        private static void ConvertObject(JsonElement jEl, XmlNode xmlNode)
+        {
+            foreach (var property in jEl.EnumerateObject())
+            {
+                var newEl = xmlNode.OwnerDocument?.CreateElement(property.Name);
+                if (newEl != null)
+                {
+                    xmlNode.AppendChild(newEl);
+                    ConvertJsonToXml(property.Value, newEl);
+                }
+            }
+        }
+        //Для массивов
+        private static void ConvertArray(JsonElement jEl, XmlNode xmlNode)
+        {
+            foreach (var value in jEl.EnumerateArray())
+            {
+                ConvertJsonToXml(value, xmlNode);
+            }
+        }
+        //Остальные
+        private static void ConvertAny(JsonElement jEl, XmlNode xmlNode)
+        {
+            var textNode = xmlNode.OwnerDocument?.CreateTextNode(jEl.ToString());
+            if (textNode != null)
+                xmlNode.AppendChild(textNode);
         }
     }
 }
