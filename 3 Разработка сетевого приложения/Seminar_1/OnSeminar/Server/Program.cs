@@ -17,13 +17,14 @@ namespace OnSeminar
             IPEndPoint ipEndPoint = new IPEndPoint(IPAddress.Any, 0);
             Console.WriteLine("Сервер ждет сообщение от клиента...");
 
-            while (true)
+            while (Console.ReadKey() == null)
             {
                 byte[] buffer = udpClient.Receive(ref ipEndPoint);
                 if (buffer == null) break;
                 var messageText = Encoding.UTF8.GetString(buffer);
                 Message? messageServer = Message.DeserializeFromJsonToMessage(messageText);
                 messageServer?.PrintMessage();
+                Console.WriteLine("Для завершения работы нажмите любую клавишу...");
             }
         }
     }

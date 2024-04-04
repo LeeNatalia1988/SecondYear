@@ -25,10 +25,10 @@ namespace OnSeminar
                 do
                 {
                     Console.Clear();
-                    Console.WriteLine("Введите сообщение: ");
+                    Console.WriteLine("Введите сообщение или exit для выхода: ");
                     messageText = Console.ReadLine();
                 }
-                while (string.IsNullOrEmpty(messageText));
+                while ((string.IsNullOrEmpty(messageText)) && (messageText != "exit"));
 
                 Message message = new Message() { Text = messageText, DateTime = DateTime.Now, NickNameFrom = from, NickNameTo = "Server" };
                 string json = message.SerializeMessageToJson();
