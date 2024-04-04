@@ -43,3 +43,18 @@ C:\GeekBrains\SecondYear\3 Разработка сетевого приложе�
 C:\GeekBrains\SecondYear\3 Разработка сетевого приложения\Seminar_2\HW\Server\obj\Debug\net8.0\Server.pdb
 C:\GeekBrains\SecondYear\3 Разработка сетевого приложения\Seminar_2\HW\Server\obj\Debug\net8.0\Server.genruntimeconfig.cache
 C:\GeekBrains\SecondYear\3 Разработка сетевого приложения\Seminar_2\HW\Server\obj\Debug\net8.0\ref\Server.dll
+C:\GeekBrains\SecondYear\3 Разработка сетевого приложения\Seminar_2\HW — копия\Server\bin\Debug\net8.0\Server.exe
+C:\GeekBrains\SecondYear\3 Разработка сетевого приложения\Seminar_2\HW — копия\Server\bin\Debug\net8.0\Server.deps.json
+C:\GeekBrains\SecondYear\3 Разработка сетевого приложения\Seminar_2\HW — копия\Server\bin\Debug\net8.0\Server.runtimeconfig.json
+C:\GeekBrains\SecondYear\3 Разработка сетевого приложения\Seminar_2\HW — копия\Server\bin\Debug\net8.0\Server.dll
+C:\GeekBrains\SecondYear\3 Разработка сетевого приложения\Seminar_2\HW — копия\Server\bin\Debug\net8.0\Server.pdb
+C:\GeekBrains\SecondYear\3 Разработка сетевого приложения\Seminar_2\HW — копия\Server\obj\Debug\net8.0\Server.GeneratedMSBuildEditorConfig.editorconfig
+C:\GeekBrains\SecondYear\3 Разработка сетевого приложения\Seminar_2\HW — копия\Server\obj\Debug\net8.0\Server.AssemblyInfoInputs.cache
+C:\GeekBrains\SecondYear\3 Разработка сетевого приложения\Seminar_2\HW — копия\Server\obj\Debug\net8.0\Server.AssemblyInfo.cs
+C:\GeekBrains\SecondYear\3 Разработка сетевого приложения\Seminar_2\HW — копия\Server\obj\Debug\net8.0\Server.csproj.CoreCompileInputs.cache
+C:\GeekBrains\SecondYear\3 Разработка сетевого приложения\Seminar_2\HW — копия\Server\obj\Debug\net8.0\Server.sourcelink.json
+C:\GeekBrains\SecondYear\3 Разработка сетевого приложения\Seminar_2\HW — копия\Server\obj\Debug\net8.0\Server.dll
+C:\GeekBrains\SecondYear\3 Разработка сетевого приложения\Seminar_2\HW — копия\Server\obj\Debug\net8.0\refint\Server.dll
+C:\GeekBrains\SecondYear\3 Разработка сетевого приложения\Seminar_2\HW — копия\Server\obj\Debug\net8.0\Server.pdb
+C:\GeekBrains\SecondYear\3 Разработка сетевого приложения\Seminar_2\HW — копия\Server\obj\Debug\net8.0\Server.genruntimeconfig.cache
+C:\GeekBrains\SecondYear\3 Разработка сетевого приложения\Seminar_2\HW — копия\Server\obj\Debug\net8.0\ref\Server.dll

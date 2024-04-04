@@ -9,14 +9,18 @@ using HW;
 using System.Diagnostics;
 using System.ComponentModel.Design;
 
-
 namespace HW
 {
     internal class Program
     {
-        public static void Main(string[] args)
+        public static async Task Main(string[] args)
         {
-            Server();
+            Thread t1 = new Thread(new ThreadStart(MyClosed));
+            Thread t2 = new Thread(new ThreadStart(Server));
+            t1.Start();
+            t2.Start();
+
+
         }
 
         static void Server()
@@ -24,10 +28,9 @@ namespace HW
             UdpClient udpClient = new UdpClient(1234);
             IPEndPoint ipEndPoint = new IPEndPoint(IPAddress.Any, 0);
             Console.WriteLine("Сервер запущен и ждет сообщение от клиента (для завершения работы нажмите Enter)...");
-            while (MyClosed())
+            while (true)
             {
                 byte[] buffer = udpClient.Receive(ref ipEndPoint);
-                if (buffer == null) break;
                 udpClient.Send(buffer, buffer.Length, ipEndPoint);
                 var messageText = Encoding.UTF8.GetString(buffer);
                 Message? messageServer = Message.DeserializeFromJsonToMessage(messageText);
@@ -35,21 +38,21 @@ namespace HW
             }
         }
 
-        static bool MyClosed()
+        static void MyClosed()
         {
-            if (Console.KeyAvailable)
+            while (true)
             {
-                ConsoleKeyInfo cki = Console.ReadKey(true);
-                if (cki.Key == ConsoleKey.Enter)
+                if (Console.KeyAvailable)
                 {
-                    Console.WriteLine("До свидания!");
-                    Thread.Sleep(1000);
-                    Process.GetCurrentProcess().Kill();
-                    return false;
+                    ConsoleKeyInfo cki = Console.ReadKey(true);
+                    if (cki.Key == ConsoleKey.Enter)
+                    {
+                        Console.WriteLine("До свидания!");
+                        Thread.Sleep(1000);
+                        Process.GetCurrentProcess().Kill();
+                    }
                 }
-                else return true;
             }
-            else return true;
         }
     }
 }

@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\GeekBrains\\SecondYear\\3 Разработка сетевого приложения\\Seminar_2\\HW\\Server\\Server.csproj",
+      "projectUniqueName": "C:\\GeekBrains\\SecondYear\\3 Разработка сетевого приложения\\Seminar_2\\HW — копия\\Server\\Server.csproj",
       "projectName": "Server",
-      "projectPath": "C:\\GeekBrains\\SecondYear\\3 Разработка сетевого приложения\\Seminar_2\\HW\\Server\\Server.csproj",
+      "projectPath": "C:\\GeekBrains\\SecondYear\\3 Разработка сетевого приложения\\Seminar_2\\HW — копия\\Server\\Server.csproj",
       "packagesPath": "C:\\Users\\mosal\\.nuget\\packages\\",
-      "outputPath": "C:\\GeekBrains\\SecondYear\\3 Разработка сетевого приложения\\Seminar_2\\HW\\Server\\obj\\",
+      "outputPath": "C:\\GeekBrains\\SecondYear\\3 Разработка сетевого приложения\\Seminar_2\\HW — копия\\Server\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
