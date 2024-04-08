@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("SocketChat.Common.Entities")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+89add682d947268086af37e72d7cdedf68ebc37d")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+5dd5abe63d07f04318d92597c3c192c67e8e1525")]
 [assembly: System.Reflection.AssemblyProductAttribute("SocketChat.Common.Entities")]
 [assembly: System.Reflection.AssemblyTitleAttribute("SocketChat.Common.Entities")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

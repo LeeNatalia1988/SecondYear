@@ -8,7 +8,7 @@ namespace SocketChat.DAL.Repositories
 
         public static async IAsyncEnumerable<User> GetAll()
         {
-            await Task.Delay(1000); 
+            await Task.Delay(1000);
             foreach (var u in users)
             {
                 if (u != null)

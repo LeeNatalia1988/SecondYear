@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("SocketChat.DAL.Repositories")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+b5fe7656da901c9afbd8027ba42f63e9ee6f3953")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+5dd5abe63d07f04318d92597c3c192c67e8e1525")]
 [assembly: System.Reflection.AssemblyProductAttribute("SocketChat.DAL.Repositories")]
 [assembly: System.Reflection.AssemblyTitleAttribute("SocketChat.DAL.Repositories")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
