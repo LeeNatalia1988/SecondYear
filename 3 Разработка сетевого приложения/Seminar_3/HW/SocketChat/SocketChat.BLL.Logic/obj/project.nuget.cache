@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "bTeksT81UextdLv4VWLsOIaeh3qSeINFrKQ+UG8WL/qbwQQMJzdEcKuVOW5ObE8iyp9YSkv5V+A/V8IK9Narmg==",
+  "success": true,
+  "projectFilePath": "C:\\GeekBrains\\SecondYear\\3 Разработка сетевого приложения\\Seminar_3\\HW\\SocketChat\\SocketChat.BLL.Logic\\SocketChat.BLL.Logic.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\mosal\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.27\\microsoft.windowsdesktop.app.ref.6.0.27.nupkg.sha512",
+    "C:\\Users\\mosal\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.27\\microsoft.netcore.app.ref.6.0.27.nupkg.sha512",
+    "C:\\Users\\mosal\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\6.0.27\\microsoft.aspnetcore.app.ref.6.0.27.nupkg.sha512"
+  ],
+  "logs": []
+}

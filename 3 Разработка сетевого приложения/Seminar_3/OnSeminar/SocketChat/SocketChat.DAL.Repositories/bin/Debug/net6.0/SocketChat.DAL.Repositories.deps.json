@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "SocketChat.DAL.Repositories/1.0.0": {
+        "dependencies": {
+          "SocketChat.Common.Entities": "1.0.0"
+        },
+        "runtime": {
+          "SocketChat.DAL.Repositories.dll": {}
+        }
+      },
+      "SocketChat.Common.Entities/1.0.0": {
+        "runtime": {
+          "SocketChat.Common.Entities.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "SocketChat.DAL.Repositories/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "SocketChat.Common.Entities/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

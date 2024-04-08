@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "SocketChat.Common.Entities/1.0.0": {
+        "runtime": {
+          "SocketChat.Common.Entities.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "SocketChat.Common.Entities/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

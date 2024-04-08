@@ -1,0 +1,50 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "SocketChat.BLL.Logic/1.0.0": {
+        "dependencies": {
+          "SocketChat.Common.Entities": "1.0.0",
+          "SocketChat.DAL.Repositories": "1.0.0"
+        },
+        "runtime": {
+          "SocketChat.BLL.Logic.dll": {}
+        }
+      },
+      "SocketChat.Common.Entities/1.0.0": {
+        "runtime": {
+          "SocketChat.Common.Entities.dll": {}
+        }
+      },
+      "SocketChat.DAL.Repositories/1.0.0": {
+        "dependencies": {
+          "SocketChat.Common.Entities": "1.0.0"
+        },
+        "runtime": {
+          "SocketChat.DAL.Repositories.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "SocketChat.BLL.Logic/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "SocketChat.Common.Entities/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "SocketChat.DAL.Repositories/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
