@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "A2/IpcbCZg2Z3XzDTCus7Vl45Giwt2/Il15aSzBo6QUAXc1CQkBPk+lgnaqIFBmL4hS0yHQubgCh6Z0EXpXg3g==",
+  "success": true,
+  "projectFilePath": "C:\\GeekBrains\\SecondYear\\3 Разработка сетевого приложения\\Seminar_3\\HW\\SocketChat\\SocketChat.DAL.Repositories\\SocketChat.DAL.Repositories.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\mosal\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.27\\microsoft.windowsdesktop.app.ref.6.0.27.nupkg.sha512",
+    "C:\\Users\\mosal\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.27\\microsoft.netcore.app.ref.6.0.27.nupkg.sha512",
+    "C:\\Users\\mosal\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\6.0.27\\microsoft.aspnetcore.app.ref.6.0.27.nupkg.sha512"
+  ],
+  "logs": []
+}

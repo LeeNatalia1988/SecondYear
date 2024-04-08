@@ -1,0 +1,24 @@
+C:\Users\Alex\Desktop\BABUSHKA\C#\Ulearn\Array\SocketChat\SocketChat.Common.Entities\bin\Debug\net6.0\SocketChat.Common.Entities.deps.json
+C:\Users\Alex\Desktop\BABUSHKA\C#\Ulearn\Array\SocketChat\SocketChat.Common.Entities\bin\Debug\net6.0\SocketChat.Common.Entities.dll
+C:\Users\Alex\Desktop\BABUSHKA\C#\Ulearn\Array\SocketChat\SocketChat.Common.Entities\bin\Debug\net6.0\SocketChat.Common.Entities.pdb
+C:\Users\Alex\Desktop\BABUSHKA\C#\Ulearn\Array\SocketChat\SocketChat.Common.Entities\obj\Debug\net6.0\SocketChat.Common.Entities.csproj.AssemblyReference.cache
+C:\Users\Alex\Desktop\BABUSHKA\C#\Ulearn\Array\SocketChat\SocketChat.Common.Entities\obj\Debug\net6.0\SocketChat.Common.Entities.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Alex\Desktop\BABUSHKA\C#\Ulearn\Array\SocketChat\SocketChat.Common.Entities\obj\Debug\net6.0\SocketChat.Common.Entities.AssemblyInfoInputs.cache
+C:\Users\Alex\Desktop\BABUSHKA\C#\Ulearn\Array\SocketChat\SocketChat.Common.Entities\obj\Debug\net6.0\SocketChat.Common.Entities.AssemblyInfo.cs
+C:\Users\Alex\Desktop\BABUSHKA\C#\Ulearn\Array\SocketChat\SocketChat.Common.Entities\obj\Debug\net6.0\SocketChat.Common.Entities.csproj.CoreCompileInputs.cache
+C:\Users\Alex\Desktop\BABUSHKA\C#\Ulearn\Array\SocketChat\SocketChat.Common.Entities\obj\Debug\net6.0\SocketChat.Common.Entities.dll
+C:\Users\Alex\Desktop\BABUSHKA\C#\Ulearn\Array\SocketChat\SocketChat.Common.Entities\obj\Debug\net6.0\refint\SocketChat.Common.Entities.dll
+C:\Users\Alex\Desktop\BABUSHKA\C#\Ulearn\Array\SocketChat\SocketChat.Common.Entities\obj\Debug\net6.0\SocketChat.Common.Entities.pdb
+C:\Users\Alex\Desktop\BABUSHKA\C#\Ulearn\Array\SocketChat\SocketChat.Common.Entities\obj\Debug\net6.0\ref\SocketChat.Common.Entities.dll
+C:\GeekBrains\SecondYear\3 Разработка сетевого приложения\Seminar_3\HW\SocketChat\SocketChat.Common.Entities\bin\Debug\net6.0\SocketChat.Common.Entities.deps.json
+C:\GeekBrains\SecondYear\3 Разработка сетевого приложения\Seminar_3\HW\SocketChat\SocketChat.Common.Entities\bin\Debug\net6.0\SocketChat.Common.Entities.dll
+C:\GeekBrains\SecondYear\3 Разработка сетевого приложения\Seminar_3\HW\SocketChat\SocketChat.Common.Entities\bin\Debug\net6.0\SocketChat.Common.Entities.pdb
+C:\GeekBrains\SecondYear\3 Разработка сетевого приложения\Seminar_3\HW\SocketChat\SocketChat.Common.Entities\obj\Debug\net6.0\SocketChat.Common.Entities.GeneratedMSBuildEditorConfig.editorconfig
+C:\GeekBrains\SecondYear\3 Разработка сетевого приложения\Seminar_3\HW\SocketChat\SocketChat.Common.Entities\obj\Debug\net6.0\SocketChat.Common.Entities.AssemblyInfoInputs.cache
+C:\GeekBrains\SecondYear\3 Разработка сетевого приложения\Seminar_3\HW\SocketChat\SocketChat.Common.Entities\obj\Debug\net6.0\SocketChat.Common.Entities.AssemblyInfo.cs
+C:\GeekBrains\SecondYear\3 Разработка сетевого приложения\Seminar_3\HW\SocketChat\SocketChat.Common.Entities\obj\Debug\net6.0\SocketChat.Common.Entities.csproj.CoreCompileInputs.cache
+C:\GeekBrains\SecondYear\3 Разработка сетевого приложения\Seminar_3\HW\SocketChat\SocketChat.Common.Entities\obj\Debug\net6.0\SocketChat.Common.Entities.sourcelink.json
+C:\GeekBrains\SecondYear\3 Разработка сетевого приложения\Seminar_3\HW\SocketChat\SocketChat.Common.Entities\obj\Debug\net6.0\SocketChat.Common.Entities.dll
+C:\GeekBrains\SecondYear\3 Разработка сетевого приложения\Seminar_3\HW\SocketChat\SocketChat.Common.Entities\obj\Debug\net6.0\refint\SocketChat.Common.Entities.dll
+C:\GeekBrains\SecondYear\3 Разработка сетевого приложения\Seminar_3\HW\SocketChat\SocketChat.Common.Entities\obj\Debug\net6.0\SocketChat.Common.Entities.pdb
+C:\GeekBrains\SecondYear\3 Разработка сетевого приложения\Seminar_3\HW\SocketChat\SocketChat.Common.Entities\obj\Debug\net6.0\ref\SocketChat.Common.Entities.dll
