@@ -21,11 +21,9 @@ namespace SocketChat.Controllers
         [HttpGet]
         public async IAsyncEnumerable<User> Get()
         {
-            await Task.Delay(1000);
             var users = _userLogic.GetAll();
-
-            var user = users.FirstOrDefault(u => u.Name == "Bob");
-            foreach (var u in users)
+            //var user = users.FirstOrDefault(u => u.Name == "Bob");
+            await foreach (var u in users)
             {
                 if (u != null)
                 {

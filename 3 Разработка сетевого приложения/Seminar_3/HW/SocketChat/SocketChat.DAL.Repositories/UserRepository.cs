@@ -6,9 +6,16 @@ namespace SocketChat.DAL.Repositories
     {
         private static List<User> users = new List<User>();
 
-        public static List<User> GetAll()
+        public static async IAsyncEnumerable<User> GetAll()
         {
-            return users;
+            await Task.Delay(1000); 
+            foreach (var u in users)
+            {
+                if (u != null)
+                {
+                    yield return u;
+                }
+            }
         }
 
         public static async void AddUser(User user)
