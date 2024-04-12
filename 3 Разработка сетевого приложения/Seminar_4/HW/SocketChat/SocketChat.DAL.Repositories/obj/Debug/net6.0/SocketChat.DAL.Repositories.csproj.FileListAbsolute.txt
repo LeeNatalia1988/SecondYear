@@ -1,0 +1,47 @@
+C:\Users\Alex\Desktop\BABUSHKA\C#\Ulearn\Array\SocketChat\SocketChat.DAL.Repositories\bin\Debug\net6.0\SocketChat.DAL.Repositories.deps.json
+C:\Users\Alex\Desktop\BABUSHKA\C#\Ulearn\Array\SocketChat\SocketChat.DAL.Repositories\bin\Debug\net6.0\SocketChat.DAL.Repositories.dll
+C:\Users\Alex\Desktop\BABUSHKA\C#\Ulearn\Array\SocketChat\SocketChat.DAL.Repositories\bin\Debug\net6.0\SocketChat.DAL.Repositories.pdb
+C:\Users\Alex\Desktop\BABUSHKA\C#\Ulearn\Array\SocketChat\SocketChat.DAL.Repositories\bin\Debug\net6.0\SocketChat.Common.Entities.dll
+C:\Users\Alex\Desktop\BABUSHKA\C#\Ulearn\Array\SocketChat\SocketChat.DAL.Repositories\bin\Debug\net6.0\SocketChat.Common.Entities.pdb
+C:\Users\Alex\Desktop\BABUSHKA\C#\Ulearn\Array\SocketChat\SocketChat.DAL.Repositories\obj\Debug\net6.0\SocketChat.DAL.Repositories.csproj.AssemblyReference.cache
+C:\Users\Alex\Desktop\BABUSHKA\C#\Ulearn\Array\SocketChat\SocketChat.DAL.Repositories\obj\Debug\net6.0\SocketChat.DAL.Repositories.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Alex\Desktop\BABUSHKA\C#\Ulearn\Array\SocketChat\SocketChat.DAL.Repositories\obj\Debug\net6.0\SocketChat.DAL.Repositories.AssemblyInfoInputs.cache
+C:\Users\Alex\Desktop\BABUSHKA\C#\Ulearn\Array\SocketChat\SocketChat.DAL.Repositories\obj\Debug\net6.0\SocketChat.DAL.Repositories.AssemblyInfo.cs
+C:\Users\Alex\Desktop\BABUSHKA\C#\Ulearn\Array\SocketChat\SocketChat.DAL.Repositories\obj\Debug\net6.0\SocketChat.DAL.Repositories.csproj.CoreCompileInputs.cache
+C:\Users\Alex\Desktop\BABUSHKA\C#\Ulearn\Array\SocketChat\SocketChat.DAL.Repositories\obj\Debug\net6.0\SocketChat.DAL.Repositories.csproj.CopyComplete
+C:\Users\Alex\Desktop\BABUSHKA\C#\Ulearn\Array\SocketChat\SocketChat.DAL.Repositories\obj\Debug\net6.0\SocketChat.DAL.Repositories.dll
+C:\Users\Alex\Desktop\BABUSHKA\C#\Ulearn\Array\SocketChat\SocketChat.DAL.Repositories\obj\Debug\net6.0\refint\SocketChat.DAL.Repositories.dll
+C:\Users\Alex\Desktop\BABUSHKA\C#\Ulearn\Array\SocketChat\SocketChat.DAL.Repositories\obj\Debug\net6.0\SocketChat.DAL.Repositories.pdb
+C:\Users\Alex\Desktop\BABUSHKA\C#\Ulearn\Array\SocketChat\SocketChat.DAL.Repositories\obj\Debug\net6.0\ref\SocketChat.DAL.Repositories.dll
+C:\GeekBrains\SecondYear\3 Разработка сетевого приложения\Seminar_3\HW\SocketChat\SocketChat.DAL.Repositories\bin\Debug\net6.0\SocketChat.DAL.Repositories.deps.json
+C:\GeekBrains\SecondYear\3 Разработка сетевого приложения\Seminar_3\HW\SocketChat\SocketChat.DAL.Repositories\bin\Debug\net6.0\SocketChat.DAL.Repositories.dll
+C:\GeekBrains\SecondYear\3 Разработка сетевого приложения\Seminar_3\HW\SocketChat\SocketChat.DAL.Repositories\bin\Debug\net6.0\SocketChat.DAL.Repositories.pdb
+C:\GeekBrains\SecondYear\3 Разработка сетевого приложения\Seminar_3\HW\SocketChat\SocketChat.DAL.Repositories\bin\Debug\net6.0\SocketChat.Common.Entities.dll
+C:\GeekBrains\SecondYear\3 Разработка сетевого приложения\Seminar_3\HW\SocketChat\SocketChat.DAL.Repositories\bin\Debug\net6.0\SocketChat.Common.Entities.pdb
+C:\GeekBrains\SecondYear\3 Разработка сетевого приложения\Seminar_3\HW\SocketChat\SocketChat.DAL.Repositories\obj\Debug\net6.0\SocketChat.DAL.Repositories.csproj.AssemblyReference.cache
+C:\GeekBrains\SecondYear\3 Разработка сетевого приложения\Seminar_3\HW\SocketChat\SocketChat.DAL.Repositories\obj\Debug\net6.0\SocketChat.DAL.Repositories.GeneratedMSBuildEditorConfig.editorconfig
+C:\GeekBrains\SecondYear\3 Разработка сетевого приложения\Seminar_3\HW\SocketChat\SocketChat.DAL.Repositories\obj\Debug\net6.0\SocketChat.DAL.Repositories.AssemblyInfoInputs.cache
+C:\GeekBrains\SecondYear\3 Разработка сетевого приложения\Seminar_3\HW\SocketChat\SocketChat.DAL.Repositories\obj\Debug\net6.0\SocketChat.DAL.Repositories.AssemblyInfo.cs
+C:\GeekBrains\SecondYear\3 Разработка сетевого приложения\Seminar_3\HW\SocketChat\SocketChat.DAL.Repositories\obj\Debug\net6.0\SocketChat.DAL.Repositories.csproj.CoreCompileInputs.cache
+C:\GeekBrains\SecondYear\3 Разработка сетевого приложения\Seminar_3\HW\SocketChat\SocketChat.DAL.Repositories\obj\Debug\net6.0\SocketChat.DAL.Repositories.sourcelink.json
+C:\GeekBrains\SecondYear\3 Разработка сетевого приложения\Seminar_3\HW\SocketChat\SocketChat.DAL.Repositories\obj\Debug\net6.0\SocketCh.668AB76A.Up2Date
+C:\GeekBrains\SecondYear\3 Разработка сетевого приложения\Seminar_3\HW\SocketChat\SocketChat.DAL.Repositories\obj\Debug\net6.0\SocketChat.DAL.Repositories.dll
+C:\GeekBrains\SecondYear\3 Разработка сетевого приложения\Seminar_3\HW\SocketChat\SocketChat.DAL.Repositories\obj\Debug\net6.0\refint\SocketChat.DAL.Repositories.dll
+C:\GeekBrains\SecondYear\3 Разработка сетевого приложения\Seminar_3\HW\SocketChat\SocketChat.DAL.Repositories\obj\Debug\net6.0\SocketChat.DAL.Repositories.pdb
+C:\GeekBrains\SecondYear\3 Разработка сетевого приложения\Seminar_3\HW\SocketChat\SocketChat.DAL.Repositories\obj\Debug\net6.0\ref\SocketChat.DAL.Repositories.dll
+C:\GeekBrains\SecondYear\3 Разработка сетевого приложения\Seminar_4\HW\SocketChat\SocketChat.DAL.Repositories\bin\Debug\net6.0\SocketChat.DAL.Repositories.deps.json
+C:\GeekBrains\SecondYear\3 Разработка сетевого приложения\Seminar_4\HW\SocketChat\SocketChat.DAL.Repositories\bin\Debug\net6.0\SocketChat.DAL.Repositories.dll
+C:\GeekBrains\SecondYear\3 Разработка сетевого приложения\Seminar_4\HW\SocketChat\SocketChat.DAL.Repositories\bin\Debug\net6.0\SocketChat.DAL.Repositories.pdb
+C:\GeekBrains\SecondYear\3 Разработка сетевого приложения\Seminar_4\HW\SocketChat\SocketChat.DAL.Repositories\bin\Debug\net6.0\SocketChat.Common.Entities.dll
+C:\GeekBrains\SecondYear\3 Разработка сетевого приложения\Seminar_4\HW\SocketChat\SocketChat.DAL.Repositories\bin\Debug\net6.0\SocketChat.Common.Entities.pdb
+C:\GeekBrains\SecondYear\3 Разработка сетевого приложения\Seminar_4\HW\SocketChat\SocketChat.DAL.Repositories\obj\Debug\net6.0\SocketChat.DAL.Repositories.csproj.AssemblyReference.cache
+C:\GeekBrains\SecondYear\3 Разработка сетевого приложения\Seminar_4\HW\SocketChat\SocketChat.DAL.Repositories\obj\Debug\net6.0\SocketChat.DAL.Repositories.GeneratedMSBuildEditorConfig.editorconfig
+C:\GeekBrains\SecondYear\3 Разработка сетевого приложения\Seminar_4\HW\SocketChat\SocketChat.DAL.Repositories\obj\Debug\net6.0\SocketChat.DAL.Repositories.AssemblyInfoInputs.cache
+C:\GeekBrains\SecondYear\3 Разработка сетевого приложения\Seminar_4\HW\SocketChat\SocketChat.DAL.Repositories\obj\Debug\net6.0\SocketChat.DAL.Repositories.AssemblyInfo.cs
+C:\GeekBrains\SecondYear\3 Разработка сетевого приложения\Seminar_4\HW\SocketChat\SocketChat.DAL.Repositories\obj\Debug\net6.0\SocketChat.DAL.Repositories.csproj.CoreCompileInputs.cache
+C:\GeekBrains\SecondYear\3 Разработка сетевого приложения\Seminar_4\HW\SocketChat\SocketChat.DAL.Repositories\obj\Debug\net6.0\SocketChat.DAL.Repositories.sourcelink.json
+C:\GeekBrains\SecondYear\3 Разработка сетевого приложения\Seminar_4\HW\SocketChat\SocketChat.DAL.Repositories\obj\Debug\net6.0\SocketCh.668AB76A.Up2Date
+C:\GeekBrains\SecondYear\3 Разработка сетевого приложения\Seminar_4\HW\SocketChat\SocketChat.DAL.Repositories\obj\Debug\net6.0\SocketChat.DAL.Repositories.dll
+C:\GeekBrains\SecondYear\3 Разработка сетевого приложения\Seminar_4\HW\SocketChat\SocketChat.DAL.Repositories\obj\Debug\net6.0\refint\SocketChat.DAL.Repositories.dll
+C:\GeekBrains\SecondYear\3 Разработка сетевого приложения\Seminar_4\HW\SocketChat\SocketChat.DAL.Repositories\obj\Debug\net6.0\SocketChat.DAL.Repositories.pdb
+C:\GeekBrains\SecondYear\3 Разработка сетевого приложения\Seminar_4\HW\SocketChat\SocketChat.DAL.Repositories\obj\Debug\net6.0\ref\SocketChat.DAL.Repositories.dll

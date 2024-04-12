@@ -1,0 +1,90 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Downloads\\SocketChat\\SocketChat\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{2CCAAD72-16A0-43FF-915C-EDABEC9A9014}|SocketChat.BLL.Logic\\SocketChat.BLL.Logic.csproj|d:\\downloads\\socketchat\\socketchat\\socketchat.bll.logic\\chathub.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2CCAAD72-16A0-43FF-915C-EDABEC9A9014}|SocketChat.BLL.Logic\\SocketChat.BLL.Logic.csproj|solutionrelative:socketchat.bll.logic\\chathub.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0B56010E-BC00-4514-9311-A5A4A088C9D4}|SocketChat\\SocketChat.csproj|d:\\downloads\\socketchat\\socketchat\\socketchat\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0B56010E-BC00-4514-9311-A5A4A088C9D4}|SocketChat\\SocketChat.csproj|solutionrelative:socketchat\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2EC537A7-ECFB-4729-A966-E4BB68B6B7F1}|SocketChat.Common.Entities\\SocketChat.Common.Entities.csproj|d:\\downloads\\socketchat\\socketchat\\socketchat.common.entities\\signalrmessage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2EC537A7-ECFB-4729-A966-E4BB68B6B7F1}|SocketChat.Common.Entities\\SocketChat.Common.Entities.csproj|solutionrelative:socketchat.common.entities\\signalrmessage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 225,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Downloads\\SocketChat\\SocketChat\\SocketChat\\Program.cs",
+              "RelativeDocumentMoniker": "SocketChat\\Program.cs",
+              "ToolTip": "D:\\Downloads\\SocketChat\\SocketChat\\SocketChat\\Program.cs",
+              "RelativeToolTip": "SocketChat\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABcAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-08T18:16:14.314Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{13b12e3e-c1b4-4539-9371-4fe9a0d523fc}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "SignalRMessage.cs",
+              "DocumentMoniker": "D:\\Downloads\\SocketChat\\SocketChat\\SocketChat.Common.Entities\\SignalRMessage.cs",
+              "RelativeDocumentMoniker": "SocketChat.Common.Entities\\SignalRMessage.cs",
+              "ToolTip": "D:\\Downloads\\SocketChat\\SocketChat\\SocketChat.Common.Entities\\SignalRMessage.cs",
+              "RelativeToolTip": "SocketChat.Common.Entities\\SignalRMessage.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAuwA0AAAAiAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-08T17:58:08.325Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ChatHub.cs",
+              "DocumentMoniker": "D:\\Downloads\\SocketChat\\SocketChat\\SocketChat.BLL.Logic\\ChatHub.cs",
+              "RelativeDocumentMoniker": "SocketChat.BLL.Logic\\ChatHub.cs",
+              "ToolTip": "D:\\Downloads\\SocketChat\\SocketChat\\SocketChat.BLL.Logic\\ChatHub.cs",
+              "RelativeToolTip": "SocketChat.BLL.Logic\\ChatHub.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAXAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-08T17:42:27.618Z",
+              "EditorCaption": ""
+            }
+          ]
+        },
+        {
+          "DockedWidth": 319,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

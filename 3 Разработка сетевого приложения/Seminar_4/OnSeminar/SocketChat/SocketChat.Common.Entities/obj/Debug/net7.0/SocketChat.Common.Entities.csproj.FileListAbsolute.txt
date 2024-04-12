@@ -1,0 +1,11 @@
+D:\Downloads\SocketChat\SocketChat\SocketChat.Common.Entities\bin\Debug\net7.0\SocketChat.Common.Entities.deps.json
+D:\Downloads\SocketChat\SocketChat\SocketChat.Common.Entities\bin\Debug\net7.0\SocketChat.Common.Entities.dll
+D:\Downloads\SocketChat\SocketChat\SocketChat.Common.Entities\bin\Debug\net7.0\SocketChat.Common.Entities.pdb
+D:\Downloads\SocketChat\SocketChat\SocketChat.Common.Entities\obj\Debug\net7.0\SocketChat.Common.Entities.GeneratedMSBuildEditorConfig.editorconfig
+D:\Downloads\SocketChat\SocketChat\SocketChat.Common.Entities\obj\Debug\net7.0\SocketChat.Common.Entities.AssemblyInfoInputs.cache
+D:\Downloads\SocketChat\SocketChat\SocketChat.Common.Entities\obj\Debug\net7.0\SocketChat.Common.Entities.AssemblyInfo.cs
+D:\Downloads\SocketChat\SocketChat\SocketChat.Common.Entities\obj\Debug\net7.0\SocketChat.Common.Entities.csproj.CoreCompileInputs.cache
+D:\Downloads\SocketChat\SocketChat\SocketChat.Common.Entities\obj\Debug\net7.0\SocketChat.Common.Entities.dll
+D:\Downloads\SocketChat\SocketChat\SocketChat.Common.Entities\obj\Debug\net7.0\refint\SocketChat.Common.Entities.dll
+D:\Downloads\SocketChat\SocketChat\SocketChat.Common.Entities\obj\Debug\net7.0\SocketChat.Common.Entities.pdb
+D:\Downloads\SocketChat\SocketChat\SocketChat.Common.Entities\obj\Debug\net7.0\ref\SocketChat.Common.Entities.dll

@@ -1,0 +1,2 @@
+C:\GeekBrains\SecondYear\3 Разработка сетевого приложения\Seminar_4\HW\SocketChatClient.pdb
+C:\GeekBrains\SecondYear\3 Разработка сетевого приложения\Seminar_4\HW\SocketChatClient.exe

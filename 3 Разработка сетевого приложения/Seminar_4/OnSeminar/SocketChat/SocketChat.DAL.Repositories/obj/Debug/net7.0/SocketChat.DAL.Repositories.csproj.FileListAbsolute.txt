@@ -1,0 +1,15 @@
+D:\Downloads\SocketChat\SocketChat\SocketChat.DAL.Repositories\bin\Debug\net7.0\SocketChat.DAL.Repositories.deps.json
+D:\Downloads\SocketChat\SocketChat\SocketChat.DAL.Repositories\bin\Debug\net7.0\SocketChat.DAL.Repositories.dll
+D:\Downloads\SocketChat\SocketChat\SocketChat.DAL.Repositories\bin\Debug\net7.0\SocketChat.DAL.Repositories.pdb
+D:\Downloads\SocketChat\SocketChat\SocketChat.DAL.Repositories\bin\Debug\net7.0\SocketChat.Common.Entities.dll
+D:\Downloads\SocketChat\SocketChat\SocketChat.DAL.Repositories\bin\Debug\net7.0\SocketChat.Common.Entities.pdb
+D:\Downloads\SocketChat\SocketChat\SocketChat.DAL.Repositories\obj\Debug\net7.0\SocketChat.DAL.Repositories.csproj.AssemblyReference.cache
+D:\Downloads\SocketChat\SocketChat\SocketChat.DAL.Repositories\obj\Debug\net7.0\SocketChat.DAL.Repositories.GeneratedMSBuildEditorConfig.editorconfig
+D:\Downloads\SocketChat\SocketChat\SocketChat.DAL.Repositories\obj\Debug\net7.0\SocketChat.DAL.Repositories.AssemblyInfoInputs.cache
+D:\Downloads\SocketChat\SocketChat\SocketChat.DAL.Repositories\obj\Debug\net7.0\SocketChat.DAL.Repositories.AssemblyInfo.cs
+D:\Downloads\SocketChat\SocketChat\SocketChat.DAL.Repositories\obj\Debug\net7.0\SocketChat.DAL.Repositories.csproj.CoreCompileInputs.cache
+D:\Downloads\SocketChat\SocketChat\SocketChat.DAL.Repositories\obj\Debug\net7.0\SocketCh.668AB76A.Up2Date
+D:\Downloads\SocketChat\SocketChat\SocketChat.DAL.Repositories\obj\Debug\net7.0\SocketChat.DAL.Repositories.dll
+D:\Downloads\SocketChat\SocketChat\SocketChat.DAL.Repositories\obj\Debug\net7.0\refint\SocketChat.DAL.Repositories.dll
+D:\Downloads\SocketChat\SocketChat\SocketChat.DAL.Repositories\obj\Debug\net7.0\SocketChat.DAL.Repositories.pdb
+D:\Downloads\SocketChat\SocketChat\SocketChat.DAL.Repositories\obj\Debug\net7.0\ref\SocketChat.DAL.Repositories.dll

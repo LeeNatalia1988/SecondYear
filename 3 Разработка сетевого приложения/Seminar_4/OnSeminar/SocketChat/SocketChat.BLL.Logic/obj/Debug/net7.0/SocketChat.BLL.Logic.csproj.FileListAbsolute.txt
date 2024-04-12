@@ -1,0 +1,17 @@
+D:\Downloads\SocketChat\SocketChat\SocketChat.BLL.Logic\bin\Debug\net7.0\SocketChat.BLL.Logic.deps.json
+D:\Downloads\SocketChat\SocketChat\SocketChat.BLL.Logic\bin\Debug\net7.0\SocketChat.BLL.Logic.dll
+D:\Downloads\SocketChat\SocketChat\SocketChat.BLL.Logic\bin\Debug\net7.0\SocketChat.BLL.Logic.pdb
+D:\Downloads\SocketChat\SocketChat\SocketChat.BLL.Logic\bin\Debug\net7.0\SocketChat.Common.Entities.dll
+D:\Downloads\SocketChat\SocketChat\SocketChat.BLL.Logic\bin\Debug\net7.0\SocketChat.DAL.Repositories.dll
+D:\Downloads\SocketChat\SocketChat\SocketChat.BLL.Logic\bin\Debug\net7.0\SocketChat.Common.Entities.pdb
+D:\Downloads\SocketChat\SocketChat\SocketChat.BLL.Logic\bin\Debug\net7.0\SocketChat.DAL.Repositories.pdb
+D:\Downloads\SocketChat\SocketChat\SocketChat.BLL.Logic\obj\Debug\net7.0\SocketChat.BLL.Logic.csproj.AssemblyReference.cache
+D:\Downloads\SocketChat\SocketChat\SocketChat.BLL.Logic\obj\Debug\net7.0\SocketChat.BLL.Logic.GeneratedMSBuildEditorConfig.editorconfig
+D:\Downloads\SocketChat\SocketChat\SocketChat.BLL.Logic\obj\Debug\net7.0\SocketChat.BLL.Logic.AssemblyInfoInputs.cache
+D:\Downloads\SocketChat\SocketChat\SocketChat.BLL.Logic\obj\Debug\net7.0\SocketChat.BLL.Logic.AssemblyInfo.cs
+D:\Downloads\SocketChat\SocketChat\SocketChat.BLL.Logic\obj\Debug\net7.0\SocketChat.BLL.Logic.csproj.CoreCompileInputs.cache
+D:\Downloads\SocketChat\SocketChat\SocketChat.BLL.Logic\obj\Debug\net7.0\SocketCh.2F4E83B4.Up2Date
+D:\Downloads\SocketChat\SocketChat\SocketChat.BLL.Logic\obj\Debug\net7.0\SocketChat.BLL.Logic.dll
+D:\Downloads\SocketChat\SocketChat\SocketChat.BLL.Logic\obj\Debug\net7.0\refint\SocketChat.BLL.Logic.dll
+D:\Downloads\SocketChat\SocketChat\SocketChat.BLL.Logic\obj\Debug\net7.0\SocketChat.BLL.Logic.pdb
+D:\Downloads\SocketChat\SocketChat\SocketChat.BLL.Logic\obj\Debug\net7.0\ref\SocketChat.BLL.Logic.dll

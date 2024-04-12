@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "eU0QAPHyIHNqc4G6VHoMvwo1pBIbR355h2IFkahqu5ocW8puz60lT3FtOgb9rTNiG0aDeJ6sge6wleaoN9dJ1g==",
+  "success": true,
+  "projectFilePath": "D:\\Downloads\\SocketChat\\SocketChat\\SocketChat.Common.Entities\\SocketChat.Common.Entities.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\dchup\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\7.0.16\\microsoft.windowsdesktop.app.ref.7.0.16.nupkg.sha512",
+    "C:\\Users\\dchup\\.nuget\\packages\\microsoft.netcore.app.ref\\7.0.16\\microsoft.netcore.app.ref.7.0.16.nupkg.sha512",
+    "C:\\Users\\dchup\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\7.0.16\\microsoft.aspnetcore.app.ref.7.0.16.nupkg.sha512"
+  ],
+  "logs": []
+}
