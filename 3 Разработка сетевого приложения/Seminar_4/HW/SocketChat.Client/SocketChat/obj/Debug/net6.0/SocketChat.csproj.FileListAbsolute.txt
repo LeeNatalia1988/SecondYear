@@ -1,0 +1,237 @@
+C:\Users\Alex\Desktop\BABUSHKA\C#\Ulearn\Array\SocketChat\SocketChat\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\Alex\Desktop\BABUSHKA\C#\Ulearn\Array\SocketChat\SocketChat\bin\Debug\net6.0\appsettings.json
+C:\Users\Alex\Desktop\BABUSHKA\C#\Ulearn\Array\SocketChat\SocketChat\bin\Debug\net6.0\SocketChat.exe
+C:\Users\Alex\Desktop\BABUSHKA\C#\Ulearn\Array\SocketChat\SocketChat\bin\Debug\net6.0\SocketChat.deps.json
+C:\Users\Alex\Desktop\BABUSHKA\C#\Ulearn\Array\SocketChat\SocketChat\bin\Debug\net6.0\SocketChat.runtimeconfig.json
+C:\Users\Alex\Desktop\BABUSHKA\C#\Ulearn\Array\SocketChat\SocketChat\bin\Debug\net6.0\SocketChat.dll
+C:\Users\Alex\Desktop\BABUSHKA\C#\Ulearn\Array\SocketChat\SocketChat\bin\Debug\net6.0\SocketChat.pdb
+C:\Users\Alex\Desktop\BABUSHKA\C#\Ulearn\Array\SocketChat\SocketChat\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Users\Alex\Desktop\BABUSHKA\C#\Ulearn\Array\SocketChat\SocketChat\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\Alex\Desktop\BABUSHKA\C#\Ulearn\Array\SocketChat\SocketChat\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\Alex\Desktop\BABUSHKA\C#\Ulearn\Array\SocketChat\SocketChat\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\Alex\Desktop\BABUSHKA\C#\Ulearn\Array\SocketChat\SocketChat\obj\Debug\net6.0\SocketChat.csproj.AssemblyReference.cache
+C:\Users\Alex\Desktop\BABUSHKA\C#\Ulearn\Array\SocketChat\SocketChat\obj\Debug\net6.0\SocketChat.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Alex\Desktop\BABUSHKA\C#\Ulearn\Array\SocketChat\SocketChat\obj\Debug\net6.0\SocketChat.AssemblyInfoInputs.cache
+C:\Users\Alex\Desktop\BABUSHKA\C#\Ulearn\Array\SocketChat\SocketChat\obj\Debug\net6.0\SocketChat.AssemblyInfo.cs
+C:\Users\Alex\Desktop\BABUSHKA\C#\Ulearn\Array\SocketChat\SocketChat\obj\Debug\net6.0\SocketChat.csproj.CoreCompileInputs.cache
+C:\Users\Alex\Desktop\BABUSHKA\C#\Ulearn\Array\SocketChat\SocketChat\obj\Debug\net6.0\SocketChat.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Alex\Desktop\BABUSHKA\C#\Ulearn\Array\SocketChat\SocketChat\obj\Debug\net6.0\SocketChat.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Alex\Desktop\BABUSHKA\C#\Ulearn\Array\SocketChat\SocketChat\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\Alex\Desktop\BABUSHKA\C#\Ulearn\Array\SocketChat\SocketChat\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\Alex\Desktop\BABUSHKA\C#\Ulearn\Array\SocketChat\SocketChat\obj\Debug\net6.0\scopedcss\bundle\SocketChat.styles.css
+C:\Users\Alex\Desktop\BABUSHKA\C#\Ulearn\Array\SocketChat\SocketChat\obj\Debug\net6.0\SocketChat.csproj.CopyComplete
+C:\Users\Alex\Desktop\BABUSHKA\C#\Ulearn\Array\SocketChat\SocketChat\obj\Debug\net6.0\SocketChat.dll
+C:\Users\Alex\Desktop\BABUSHKA\C#\Ulearn\Array\SocketChat\SocketChat\obj\Debug\net6.0\refint\SocketChat.dll
+C:\Users\Alex\Desktop\BABUSHKA\C#\Ulearn\Array\SocketChat\SocketChat\obj\Debug\net6.0\SocketChat.pdb
+C:\Users\Alex\Desktop\BABUSHKA\C#\Ulearn\Array\SocketChat\SocketChat\obj\Debug\net6.0\SocketChat.genruntimeconfig.cache
+C:\Users\Alex\Desktop\BABUSHKA\C#\Ulearn\Array\SocketChat\SocketChat\obj\Debug\net6.0\ref\SocketChat.dll
+C:\Users\Alex\Desktop\BABUSHKA\C#\Ulearn\Array\SocketChat\SocketChat\bin\Debug\net6.0\SocketChat.BLL.Logic.dll
+C:\Users\Alex\Desktop\BABUSHKA\C#\Ulearn\Array\SocketChat\SocketChat\bin\Debug\net6.0\SocketChat.Common.Entities.dll
+C:\Users\Alex\Desktop\BABUSHKA\C#\Ulearn\Array\SocketChat\SocketChat\bin\Debug\net6.0\SocketChat.DAL.Repositories.dll
+C:\Users\Alex\Desktop\BABUSHKA\C#\Ulearn\Array\SocketChat\SocketChat\bin\Debug\net6.0\SocketChat.BLL.Logic.pdb
+C:\Users\Alex\Desktop\BABUSHKA\C#\Ulearn\Array\SocketChat\SocketChat\bin\Debug\net6.0\SocketChat.Common.Entities.pdb
+C:\Users\Alex\Desktop\BABUSHKA\C#\Ulearn\Array\SocketChat\SocketChat\bin\Debug\net6.0\SocketChat.DAL.Repositories.pdb
+C:\GeekBrains\SecondYear\3 Разработка сетевого приложения\Seminar_3\HW\SocketChat\SocketChat\bin\Debug\net6.0\appsettings.Development.json
+C:\GeekBrains\SecondYear\3 Разработка сетевого приложения\Seminar_3\HW\SocketChat\SocketChat\bin\Debug\net6.0\appsettings.json
+C:\GeekBrains\SecondYear\3 Разработка сетевого приложения\Seminar_3\HW\SocketChat\SocketChat\bin\Debug\net6.0\SocketChat.exe
+C:\GeekBrains\SecondYear\3 Разработка сетевого приложения\Seminar_3\HW\SocketChat\SocketChat\bin\Debug\net6.0\SocketChat.deps.json
+C:\GeekBrains\SecondYear\3 Разработка сетевого приложения\Seminar_3\HW\SocketChat\SocketChat\bin\Debug\net6.0\SocketChat.runtimeconfig.json
+C:\GeekBrains\SecondYear\3 Разработка сетевого приложения\Seminar_3\HW\SocketChat\SocketChat\bin\Debug\net6.0\SocketChat.dll
+C:\GeekBrains\SecondYear\3 Разработка сетевого приложения\Seminar_3\HW\SocketChat\SocketChat\bin\Debug\net6.0\SocketChat.pdb
+C:\GeekBrains\SecondYear\3 Разработка сетевого приложения\Seminar_3\HW\SocketChat\SocketChat\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\GeekBrains\SecondYear\3 Разработка сетевого приложения\Seminar_3\HW\SocketChat\SocketChat\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\GeekBrains\SecondYear\3 Разработка сетевого приложения\Seminar_3\HW\SocketChat\SocketChat\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\GeekBrains\SecondYear\3 Разработка сетевого приложения\Seminar_3\HW\SocketChat\SocketChat\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\GeekBrains\SecondYear\3 Разработка сетевого приложения\Seminar_3\HW\SocketChat\SocketChat\bin\Debug\net6.0\SocketChat.BLL.Logic.dll
+C:\GeekBrains\SecondYear\3 Разработка сетевого приложения\Seminar_3\HW\SocketChat\SocketChat\bin\Debug\net6.0\SocketChat.Common.Entities.dll
+C:\GeekBrains\SecondYear\3 Разработка сетевого приложения\Seminar_3\HW\SocketChat\SocketChat\bin\Debug\net6.0\SocketChat.DAL.Repositories.dll
+C:\GeekBrains\SecondYear\3 Разработка сетевого приложения\Seminar_3\HW\SocketChat\SocketChat\bin\Debug\net6.0\SocketChat.BLL.Logic.pdb
+C:\GeekBrains\SecondYear\3 Разработка сетевого приложения\Seminar_3\HW\SocketChat\SocketChat\bin\Debug\net6.0\SocketChat.Common.Entities.pdb
+C:\GeekBrains\SecondYear\3 Разработка сетевого приложения\Seminar_3\HW\SocketChat\SocketChat\bin\Debug\net6.0\SocketChat.DAL.Repositories.pdb
+C:\GeekBrains\SecondYear\3 Разработка сетевого приложения\Seminar_3\HW\SocketChat\SocketChat\obj\Debug\net6.0\SocketChat.csproj.AssemblyReference.cache
+C:\GeekBrains\SecondYear\3 Разработка сетевого приложения\Seminar_3\HW\SocketChat\SocketChat\obj\Debug\net6.0\SocketChat.GeneratedMSBuildEditorConfig.editorconfig
+C:\GeekBrains\SecondYear\3 Разработка сетевого приложения\Seminar_3\HW\SocketChat\SocketChat\obj\Debug\net6.0\SocketChat.AssemblyInfoInputs.cache
+C:\GeekBrains\SecondYear\3 Разработка сетевого приложения\Seminar_3\HW\SocketChat\SocketChat\obj\Debug\net6.0\SocketChat.AssemblyInfo.cs
+C:\GeekBrains\SecondYear\3 Разработка сетевого приложения\Seminar_3\HW\SocketChat\SocketChat\obj\Debug\net6.0\SocketChat.csproj.CoreCompileInputs.cache
+C:\GeekBrains\SecondYear\3 Разработка сетевого приложения\Seminar_3\HW\SocketChat\SocketChat\obj\Debug\net6.0\SocketChat.MvcApplicationPartsAssemblyInfo.cs
+C:\GeekBrains\SecondYear\3 Разработка сетевого приложения\Seminar_3\HW\SocketChat\SocketChat\obj\Debug\net6.0\SocketChat.MvcApplicationPartsAssemblyInfo.cache
+C:\GeekBrains\SecondYear\3 Разработка сетевого приложения\Seminar_3\HW\SocketChat\SocketChat\obj\Debug\net6.0\SocketChat.sourcelink.json
+C:\GeekBrains\SecondYear\3 Разработка сетевого приложения\Seminar_3\HW\SocketChat\SocketChat\obj\Debug\net6.0\staticwebassets.build.json
+C:\GeekBrains\SecondYear\3 Разработка сетевого приложения\Seminar_3\HW\SocketChat\SocketChat\obj\Debug\net6.0\staticwebassets.development.json
+C:\GeekBrains\SecondYear\3 Разработка сетевого приложения\Seminar_3\HW\SocketChat\SocketChat\obj\Debug\net6.0\staticwebassets\msbuild.SocketChat.Microsoft.AspNetCore.StaticWebAssets.props
+C:\GeekBrains\SecondYear\3 Разработка сетевого приложения\Seminar_3\HW\SocketChat\SocketChat\obj\Debug\net6.0\staticwebassets\msbuild.build.SocketChat.props
+C:\GeekBrains\SecondYear\3 Разработка сетевого приложения\Seminar_3\HW\SocketChat\SocketChat\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.SocketChat.props
+C:\GeekBrains\SecondYear\3 Разработка сетевого приложения\Seminar_3\HW\SocketChat\SocketChat\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.SocketChat.props
+C:\GeekBrains\SecondYear\3 Разработка сетевого приложения\Seminar_3\HW\SocketChat\SocketChat\obj\Debug\net6.0\staticwebassets.pack.json
+C:\GeekBrains\SecondYear\3 Разработка сетевого приложения\Seminar_3\HW\SocketChat\SocketChat\obj\Debug\net6.0\scopedcss\bundle\SocketChat.styles.css
+C:\GeekBrains\SecondYear\3 Разработка сетевого приложения\Seminar_3\HW\SocketChat\SocketChat\obj\Debug\net6.0\SocketChat.csproj.Up2Date
+C:\GeekBrains\SecondYear\3 Разработка сетевого приложения\Seminar_3\HW\SocketChat\SocketChat\obj\Debug\net6.0\SocketChat.dll
+C:\GeekBrains\SecondYear\3 Разработка сетевого приложения\Seminar_3\HW\SocketChat\SocketChat\obj\Debug\net6.0\refint\SocketChat.dll
+C:\GeekBrains\SecondYear\3 Разработка сетевого приложения\Seminar_3\HW\SocketChat\SocketChat\obj\Debug\net6.0\SocketChat.pdb
+C:\GeekBrains\SecondYear\3 Разработка сетевого приложения\Seminar_3\HW\SocketChat\SocketChat\obj\Debug\net6.0\SocketChat.genruntimeconfig.cache
+C:\GeekBrains\SecondYear\3 Разработка сетевого приложения\Seminar_3\HW\SocketChat\SocketChat\obj\Debug\net6.0\ref\SocketChat.dll
+C:\GeekBrains\SecondYear\3 Разработка сетевого приложения\Seminar_4\HW\SocketChat.Server\SocketChat\bin\Debug\net6.0\appsettings.Development.json
+C:\GeekBrains\SecondYear\3 Разработка сетевого приложения\Seminar_4\HW\SocketChat.Server\SocketChat\bin\Debug\net6.0\appsettings.json
+C:\GeekBrains\SecondYear\3 Разработка сетевого приложения\Seminar_4\HW\SocketChat.Server\SocketChat\bin\Debug\net6.0\SocketChat.exe
+C:\GeekBrains\SecondYear\3 Разработка сетевого приложения\Seminar_4\HW\SocketChat.Server\SocketChat\bin\Debug\net6.0\SocketChat.deps.json
+C:\GeekBrains\SecondYear\3 Разработка сетевого приложения\Seminar_4\HW\SocketChat.Server\SocketChat\bin\Debug\net6.0\SocketChat.runtimeconfig.json
+C:\GeekBrains\SecondYear\3 Разработка сетевого приложения\Seminar_4\HW\SocketChat.Server\SocketChat\bin\Debug\net6.0\SocketChat.dll
+C:\GeekBrains\SecondYear\3 Разработка сетевого приложения\Seminar_4\HW\SocketChat.Server\SocketChat\bin\Debug\net6.0\SocketChat.pdb
+C:\GeekBrains\SecondYear\3 Разработка сетевого приложения\Seminar_4\HW\SocketChat.Server\SocketChat\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\GeekBrains\SecondYear\3 Разработка сетевого приложения\Seminar_4\HW\SocketChat.Server\SocketChat\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\GeekBrains\SecondYear\3 Разработка сетевого приложения\Seminar_4\HW\SocketChat.Server\SocketChat\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\GeekBrains\SecondYear\3 Разработка сетевого приложения\Seminar_4\HW\SocketChat.Server\SocketChat\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\GeekBrains\SecondYear\3 Разработка сетевого приложения\Seminar_4\HW\SocketChat.Server\SocketChat\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\GeekBrains\SecondYear\3 Разработка сетевого приложения\Seminar_4\HW\SocketChat.Server\SocketChat\bin\Debug\net6.0\System.Net.WebSockets.WebSocketProtocol.dll
+C:\GeekBrains\SecondYear\3 Разработка сетевого приложения\Seminar_4\HW\SocketChat.Server\SocketChat\bin\Debug\net6.0\SocketChat.BLL.Logic.dll
+C:\GeekBrains\SecondYear\3 Разработка сетевого приложения\Seminar_4\HW\SocketChat.Server\SocketChat\bin\Debug\net6.0\SocketChat.Common.Entities.dll
+C:\GeekBrains\SecondYear\3 Разработка сетевого приложения\Seminar_4\HW\SocketChat.Server\SocketChat\bin\Debug\net6.0\SocketChat.DAL.Repositories.dll
+C:\GeekBrains\SecondYear\3 Разработка сетевого приложения\Seminar_4\HW\SocketChat.Server\SocketChat\bin\Debug\net6.0\SocketChat.BLL.Logic.pdb
+C:\GeekBrains\SecondYear\3 Разработка сетевого приложения\Seminar_4\HW\SocketChat.Server\SocketChat\bin\Debug\net6.0\SocketChat.Common.Entities.pdb
+C:\GeekBrains\SecondYear\3 Разработка сетевого приложения\Seminar_4\HW\SocketChat.Server\SocketChat\bin\Debug\net6.0\SocketChat.DAL.Repositories.pdb
+C:\GeekBrains\SecondYear\3 Разработка сетевого приложения\Seminar_4\HW\SocketChat.Server\SocketChat\obj\Debug\net6.0\SocketChat.csproj.AssemblyReference.cache
+C:\GeekBrains\SecondYear\3 Разработка сетевого приложения\Seminar_4\HW\SocketChat.Server\SocketChat\obj\Debug\net6.0\SocketChat.GeneratedMSBuildEditorConfig.editorconfig
+C:\GeekBrains\SecondYear\3 Разработка сетевого приложения\Seminar_4\HW\SocketChat.Server\SocketChat\obj\Debug\net6.0\SocketChat.AssemblyInfoInputs.cache
+C:\GeekBrains\SecondYear\3 Разработка сетевого приложения\Seminar_4\HW\SocketChat.Server\SocketChat\obj\Debug\net6.0\SocketChat.AssemblyInfo.cs
+C:\GeekBrains\SecondYear\3 Разработка сетевого приложения\Seminar_4\HW\SocketChat.Server\SocketChat\obj\Debug\net6.0\SocketChat.csproj.CoreCompileInputs.cache
+C:\GeekBrains\SecondYear\3 Разработка сетевого приложения\Seminar_4\HW\SocketChat.Server\SocketChat\obj\Debug\net6.0\SocketChat.MvcApplicationPartsAssemblyInfo.cs
+C:\GeekBrains\SecondYear\3 Разработка сетевого приложения\Seminar_4\HW\SocketChat.Server\SocketChat\obj\Debug\net6.0\SocketChat.MvcApplicationPartsAssemblyInfo.cache
+C:\GeekBrains\SecondYear\3 Разработка сетевого приложения\Seminar_4\HW\SocketChat.Server\SocketChat\obj\Debug\net6.0\SocketChat.sourcelink.json
+C:\GeekBrains\SecondYear\3 Разработка сетевого приложения\Seminar_4\HW\SocketChat.Server\SocketChat\obj\Debug\net6.0\staticwebassets.build.json
+C:\GeekBrains\SecondYear\3 Разработка сетевого приложения\Seminar_4\HW\SocketChat.Server\SocketChat\obj\Debug\net6.0\staticwebassets.development.json
+C:\GeekBrains\SecondYear\3 Разработка сетевого приложения\Seminar_4\HW\SocketChat.Server\SocketChat\obj\Debug\net6.0\staticwebassets\msbuild.SocketChat.Microsoft.AspNetCore.StaticWebAssets.props
+C:\GeekBrains\SecondYear\3 Разработка сетевого приложения\Seminar_4\HW\SocketChat.Server\SocketChat\obj\Debug\net6.0\staticwebassets\msbuild.build.SocketChat.props
+C:\GeekBrains\SecondYear\3 Разработка сетевого приложения\Seminar_4\HW\SocketChat.Server\SocketChat\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.SocketChat.props
+C:\GeekBrains\SecondYear\3 Разработка сетевого приложения\Seminar_4\HW\SocketChat.Server\SocketChat\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.SocketChat.props
+C:\GeekBrains\SecondYear\3 Разработка сетевого приложения\Seminar_4\HW\SocketChat.Server\SocketChat\obj\Debug\net6.0\staticwebassets.pack.json
+C:\GeekBrains\SecondYear\3 Разработка сетевого приложения\Seminar_4\HW\SocketChat.Server\SocketChat\obj\Debug\net6.0\scopedcss\bundle\SocketChat.styles.css
+C:\GeekBrains\SecondYear\3 Разработка сетевого приложения\Seminar_4\HW\SocketChat.Server\SocketChat\obj\Debug\net6.0\SocketChat.csproj.Up2Date
+C:\GeekBrains\SecondYear\3 Разработка сетевого приложения\Seminar_4\HW\SocketChat.Server\SocketChat\obj\Debug\net6.0\SocketChat.dll
+C:\GeekBrains\SecondYear\3 Разработка сетевого приложения\Seminar_4\HW\SocketChat.Server\SocketChat\obj\Debug\net6.0\refint\SocketChat.dll
+C:\GeekBrains\SecondYear\3 Разработка сетевого приложения\Seminar_4\HW\SocketChat.Server\SocketChat\obj\Debug\net6.0\SocketChat.pdb
+C:\GeekBrains\SecondYear\3 Разработка сетевого приложения\Seminar_4\HW\SocketChat.Server\SocketChat\obj\Debug\net6.0\SocketChat.genruntimeconfig.cache
+C:\GeekBrains\SecondYear\3 Разработка сетевого приложения\Seminar_4\HW\SocketChat.Server\SocketChat\obj\Debug\net6.0\ref\SocketChat.dll
+C:\GeekBrains\SecondYear\3 Разработка сетевого приложения\Seminar_4\HW1\SocketChat.Client\SocketChat\obj\Debug\net6.0\SocketChat.csproj.AssemblyReference.cache
+C:\GeekBrains\SecondYear\3 Разработка сетевого приложения\Seminar_4\HW1\SocketChat.Client\SocketChat\obj\Debug\net6.0\SocketChat.GeneratedMSBuildEditorConfig.editorconfig
+C:\GeekBrains\SecondYear\3 Разработка сетевого приложения\Seminar_4\HW1\SocketChat.Client\SocketChat\obj\Debug\net6.0\SocketChat.AssemblyInfoInputs.cache
+C:\GeekBrains\SecondYear\3 Разработка сетевого приложения\Seminar_4\HW1\SocketChat.Client\SocketChat\obj\Debug\net6.0\SocketChat.AssemblyInfo.cs
+C:\GeekBrains\SecondYear\3 Разработка сетевого приложения\Seminar_4\HW1\SocketChat.Client\SocketChat\obj\Debug\net6.0\SocketChat.csproj.CoreCompileInputs.cache
+C:\GeekBrains\SecondYear\3 Разработка сетевого приложения\Seminar_4\HW1\SocketChat.Client\SocketChat\obj\Debug\net6.0\SocketChat.MvcApplicationPartsAssemblyInfo.cs
+C:\GeekBrains\SecondYear\3 Разработка сетевого приложения\Seminar_4\HW1\SocketChat.Client\SocketChat\obj\Debug\net6.0\SocketChat.MvcApplicationPartsAssemblyInfo.cache
+C:\GeekBrains\SecondYear\3 Разработка сетевого приложения\Seminar_4\HW1\SocketChat.Client\SocketChat\obj\Debug\net6.0\SocketChat.sourcelink.json
+C:\GeekBrains\SecondYear\3 Разработка сетевого приложения\Seminar_4\HW1\SocketChat.Client\SocketChat\obj\Debug\net6.0\SocketChat.dll
+C:\GeekBrains\SecondYear\3 Разработка сетевого приложения\Seminar_4\HW1\SocketChat.Client\SocketChat\obj\Debug\net6.0\refint\SocketChat.dll
+C:\GeekBrains\SecondYear\3 Разработка сетевого приложения\Seminar_4\HW1\SocketChat.Client\SocketChat\obj\Debug\net6.0\SocketChat.pdb
+C:\GeekBrains\SecondYear\3 Разработка сетевого приложения\Seminar_4\HW1\SocketChat.Client\SocketChat\bin\Debug\net6.0\appsettings.Development.json
+C:\GeekBrains\SecondYear\3 Разработка сетевого приложения\Seminar_4\HW1\SocketChat.Client\SocketChat\bin\Debug\net6.0\appsettings.json
+C:\GeekBrains\SecondYear\3 Разработка сетевого приложения\Seminar_4\HW1\SocketChat.Client\SocketChat\bin\Debug\net6.0\SocketChat.exe
+C:\GeekBrains\SecondYear\3 Разработка сетевого приложения\Seminar_4\HW1\SocketChat.Client\SocketChat\bin\Debug\net6.0\SocketChat.deps.json
+C:\GeekBrains\SecondYear\3 Разработка сетевого приложения\Seminar_4\HW1\SocketChat.Client\SocketChat\bin\Debug\net6.0\SocketChat.runtimeconfig.json
+C:\GeekBrains\SecondYear\3 Разработка сетевого приложения\Seminar_4\HW1\SocketChat.Client\SocketChat\bin\Debug\net6.0\SocketChat.dll
+C:\GeekBrains\SecondYear\3 Разработка сетевого приложения\Seminar_4\HW1\SocketChat.Client\SocketChat\bin\Debug\net6.0\SocketChat.pdb
+C:\GeekBrains\SecondYear\3 Разработка сетевого приложения\Seminar_4\HW1\SocketChat.Client\SocketChat\bin\Debug\net6.0\Microsoft.AspNetCore.Connections.Abstractions.dll
+C:\GeekBrains\SecondYear\3 Разработка сетевого приложения\Seminar_4\HW1\SocketChat.Client\SocketChat\bin\Debug\net6.0\Microsoft.AspNetCore.Http.Connections.Client.dll
+C:\GeekBrains\SecondYear\3 Разработка сетевого приложения\Seminar_4\HW1\SocketChat.Client\SocketChat\bin\Debug\net6.0\Microsoft.AspNetCore.Http.Connections.Common.dll
+C:\GeekBrains\SecondYear\3 Разработка сетевого приложения\Seminar_4\HW1\SocketChat.Client\SocketChat\bin\Debug\net6.0\Microsoft.AspNetCore.SignalR.Client.dll
+C:\GeekBrains\SecondYear\3 Разработка сетевого приложения\Seminar_4\HW1\SocketChat.Client\SocketChat\bin\Debug\net6.0\Microsoft.AspNetCore.SignalR.Client.Core.dll
+C:\GeekBrains\SecondYear\3 Разработка сетевого приложения\Seminar_4\HW1\SocketChat.Client\SocketChat\bin\Debug\net6.0\Microsoft.AspNetCore.SignalR.Common.dll
+C:\GeekBrains\SecondYear\3 Разработка сетевого приложения\Seminar_4\HW1\SocketChat.Client\SocketChat\bin\Debug\net6.0\Microsoft.AspNetCore.SignalR.Protocols.Json.dll
+C:\GeekBrains\SecondYear\3 Разработка сетевого приложения\Seminar_4\HW1\SocketChat.Client\SocketChat\bin\Debug\net6.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\GeekBrains\SecondYear\3 Разработка сетевого приложения\Seminar_4\HW1\SocketChat.Client\SocketChat\bin\Debug\net6.0\Microsoft.Bcl.TimeProvider.dll
+C:\GeekBrains\SecondYear\3 Разработка сетевого приложения\Seminar_4\HW1\SocketChat.Client\SocketChat\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+C:\GeekBrains\SecondYear\3 Разработка сетевого приложения\Seminar_4\HW1\SocketChat.Client\SocketChat\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\GeekBrains\SecondYear\3 Разработка сетевого приложения\Seminar_4\HW1\SocketChat.Client\SocketChat\bin\Debug\net6.0\Microsoft.Extensions.Features.dll
+C:\GeekBrains\SecondYear\3 Разработка сетевого приложения\Seminar_4\HW1\SocketChat.Client\SocketChat\bin\Debug\net6.0\Microsoft.Extensions.Logging.dll
+C:\GeekBrains\SecondYear\3 Разработка сетевого приложения\Seminar_4\HW1\SocketChat.Client\SocketChat\bin\Debug\net6.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\GeekBrains\SecondYear\3 Разработка сетевого приложения\Seminar_4\HW1\SocketChat.Client\SocketChat\bin\Debug\net6.0\Microsoft.Extensions.Options.dll
+C:\GeekBrains\SecondYear\3 Разработка сетевого приложения\Seminar_4\HW1\SocketChat.Client\SocketChat\bin\Debug\net6.0\Microsoft.Extensions.Primitives.dll
+C:\GeekBrains\SecondYear\3 Разработка сетевого приложения\Seminar_4\HW1\SocketChat.Client\SocketChat\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\GeekBrains\SecondYear\3 Разработка сетевого приложения\Seminar_4\HW1\SocketChat.Client\SocketChat\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\GeekBrains\SecondYear\3 Разработка сетевого приложения\Seminar_4\HW1\SocketChat.Client\SocketChat\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\GeekBrains\SecondYear\3 Разработка сетевого приложения\Seminar_4\HW1\SocketChat.Client\SocketChat\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\GeekBrains\SecondYear\3 Разработка сетевого приложения\Seminar_4\HW1\SocketChat.Client\SocketChat\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\GeekBrains\SecondYear\3 Разработка сетевого приложения\Seminar_4\HW1\SocketChat.Client\SocketChat\bin\Debug\net6.0\System.IO.Pipelines.dll
+C:\GeekBrains\SecondYear\3 Разработка сетевого приложения\Seminar_4\HW1\SocketChat.Client\SocketChat\bin\Debug\net6.0\System.Net.WebSockets.WebSocketProtocol.dll
+C:\GeekBrains\SecondYear\3 Разработка сетевого приложения\Seminar_4\HW1\SocketChat.Client\SocketChat\bin\Debug\net6.0\System.Text.Encodings.Web.dll
+C:\GeekBrains\SecondYear\3 Разработка сетевого приложения\Seminar_4\HW1\SocketChat.Client\SocketChat\bin\Debug\net6.0\System.Text.Json.dll
+C:\GeekBrains\SecondYear\3 Разработка сетевого приложения\Seminar_4\HW1\SocketChat.Client\SocketChat\bin\Debug\net6.0\System.Threading.Channels.dll
+C:\GeekBrains\SecondYear\3 Разработка сетевого приложения\Seminar_4\HW1\SocketChat.Client\SocketChat\bin\Debug\net6.0\runtimes\browser\lib\net6.0\System.Text.Encodings.Web.dll
+C:\GeekBrains\SecondYear\3 Разработка сетевого приложения\Seminar_4\HW1\SocketChat.Client\SocketChat\bin\Debug\net6.0\SocketChat.BLL.Logic.dll
+C:\GeekBrains\SecondYear\3 Разработка сетевого приложения\Seminar_4\HW1\SocketChat.Client\SocketChat\bin\Debug\net6.0\SocketChat.Common.Entities.dll
+C:\GeekBrains\SecondYear\3 Разработка сетевого приложения\Seminar_4\HW1\SocketChat.Client\SocketChat\bin\Debug\net6.0\SocketChat.DAL.Repositories.dll
+C:\GeekBrains\SecondYear\3 Разработка сетевого приложения\Seminar_4\HW1\SocketChat.Client\SocketChat\bin\Debug\net6.0\SocketChat.BLL.Logic.pdb
+C:\GeekBrains\SecondYear\3 Разработка сетевого приложения\Seminar_4\HW1\SocketChat.Client\SocketChat\bin\Debug\net6.0\SocketChat.Common.Entities.pdb
+C:\GeekBrains\SecondYear\3 Разработка сетевого приложения\Seminar_4\HW1\SocketChat.Client\SocketChat\bin\Debug\net6.0\SocketChat.DAL.Repositories.pdb
+C:\GeekBrains\SecondYear\3 Разработка сетевого приложения\Seminar_4\HW1\SocketChat.Client\SocketChat\obj\Debug\net6.0\staticwebassets.build.json
+C:\GeekBrains\SecondYear\3 Разработка сетевого приложения\Seminar_4\HW1\SocketChat.Client\SocketChat\obj\Debug\net6.0\staticwebassets.development.json
+C:\GeekBrains\SecondYear\3 Разработка сетевого приложения\Seminar_4\HW1\SocketChat.Client\SocketChat\obj\Debug\net6.0\staticwebassets\msbuild.SocketChat.Microsoft.AspNetCore.StaticWebAssets.props
+C:\GeekBrains\SecondYear\3 Разработка сетевого приложения\Seminar_4\HW1\SocketChat.Client\SocketChat\obj\Debug\net6.0\staticwebassets\msbuild.build.SocketChat.props
+C:\GeekBrains\SecondYear\3 Разработка сетевого приложения\Seminar_4\HW1\SocketChat.Client\SocketChat\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.SocketChat.props
+C:\GeekBrains\SecondYear\3 Разработка сетевого приложения\Seminar_4\HW1\SocketChat.Client\SocketChat\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.SocketChat.props
+C:\GeekBrains\SecondYear\3 Разработка сетевого приложения\Seminar_4\HW1\SocketChat.Client\SocketChat\obj\Debug\net6.0\staticwebassets.pack.json
+C:\GeekBrains\SecondYear\3 Разработка сетевого приложения\Seminar_4\HW1\SocketChat.Client\SocketChat\obj\Debug\net6.0\scopedcss\bundle\SocketChat.styles.css
+C:\GeekBrains\SecondYear\3 Разработка сетевого приложения\Seminar_4\HW1\SocketChat.Client\SocketChat\obj\Debug\net6.0\SocketChat.csproj.Up2Date
+C:\GeekBrains\SecondYear\3 Разработка сетевого приложения\Seminar_4\HW1\SocketChat.Client\SocketChat\obj\Debug\net6.0\SocketChat.genruntimeconfig.cache
+C:\GeekBrains\SecondYear\3 Разработка сетевого приложения\Seminar_4\HW1\SocketChat.Client\SocketChat\obj\Debug\net6.0\ref\SocketChat.dll
+C:\GeekBrains\SecondYear\3 Разработка сетевого приложения\Seminar_4\HW\SocketChat.Client\SocketChat\bin\Debug\net6.0\appsettings.Development.json
+C:\GeekBrains\SecondYear\3 Разработка сетевого приложения\Seminar_4\HW\SocketChat.Client\SocketChat\bin\Debug\net6.0\appsettings.json
+C:\GeekBrains\SecondYear\3 Разработка сетевого приложения\Seminar_4\HW\SocketChat.Client\SocketChat\bin\Debug\net6.0\SocketChat.exe
+C:\GeekBrains\SecondYear\3 Разработка сетевого приложения\Seminar_4\HW\SocketChat.Client\SocketChat\bin\Debug\net6.0\SocketChat.deps.json
+C:\GeekBrains\SecondYear\3 Разработка сетевого приложения\Seminar_4\HW\SocketChat.Client\SocketChat\bin\Debug\net6.0\SocketChat.runtimeconfig.json
+C:\GeekBrains\SecondYear\3 Разработка сетевого приложения\Seminar_4\HW\SocketChat.Client\SocketChat\bin\Debug\net6.0\SocketChat.dll
+C:\GeekBrains\SecondYear\3 Разработка сетевого приложения\Seminar_4\HW\SocketChat.Client\SocketChat\bin\Debug\net6.0\SocketChat.pdb
+C:\GeekBrains\SecondYear\3 Разработка сетевого приложения\Seminar_4\HW\SocketChat.Client\SocketChat\bin\Debug\net6.0\Microsoft.AspNetCore.Connections.Abstractions.dll
+C:\GeekBrains\SecondYear\3 Разработка сетевого приложения\Seminar_4\HW\SocketChat.Client\SocketChat\bin\Debug\net6.0\Microsoft.AspNetCore.Http.Connections.Client.dll
+C:\GeekBrains\SecondYear\3 Разработка сетевого приложения\Seminar_4\HW\SocketChat.Client\SocketChat\bin\Debug\net6.0\Microsoft.AspNetCore.Http.Connections.Common.dll
+C:\GeekBrains\SecondYear\3 Разработка сетевого приложения\Seminar_4\HW\SocketChat.Client\SocketChat\bin\Debug\net6.0\Microsoft.AspNetCore.SignalR.Client.dll
+C:\GeekBrains\SecondYear\3 Разработка сетевого приложения\Seminar_4\HW\SocketChat.Client\SocketChat\bin\Debug\net6.0\Microsoft.AspNetCore.SignalR.Client.Core.dll
+C:\GeekBrains\SecondYear\3 Разработка сетевого приложения\Seminar_4\HW\SocketChat.Client\SocketChat\bin\Debug\net6.0\Microsoft.AspNetCore.SignalR.Common.dll
+C:\GeekBrains\SecondYear\3 Разработка сетевого приложения\Seminar_4\HW\SocketChat.Client\SocketChat\bin\Debug\net6.0\Microsoft.AspNetCore.SignalR.Protocols.Json.dll
+C:\GeekBrains\SecondYear\3 Разработка сетевого приложения\Seminar_4\HW\SocketChat.Client\SocketChat\bin\Debug\net6.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\GeekBrains\SecondYear\3 Разработка сетевого приложения\Seminar_4\HW\SocketChat.Client\SocketChat\bin\Debug\net6.0\Microsoft.Bcl.TimeProvider.dll
+C:\GeekBrains\SecondYear\3 Разработка сетевого приложения\Seminar_4\HW\SocketChat.Client\SocketChat\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+C:\GeekBrains\SecondYear\3 Разработка сетевого приложения\Seminar_4\HW\SocketChat.Client\SocketChat\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\GeekBrains\SecondYear\3 Разработка сетевого приложения\Seminar_4\HW\SocketChat.Client\SocketChat\bin\Debug\net6.0\Microsoft.Extensions.Features.dll
+C:\GeekBrains\SecondYear\3 Разработка сетевого приложения\Seminar_4\HW\SocketChat.Client\SocketChat\bin\Debug\net6.0\Microsoft.Extensions.Logging.dll
+C:\GeekBrains\SecondYear\3 Разработка сетевого приложения\Seminar_4\HW\SocketChat.Client\SocketChat\bin\Debug\net6.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\GeekBrains\SecondYear\3 Разработка сетевого приложения\Seminar_4\HW\SocketChat.Client\SocketChat\bin\Debug\net6.0\Microsoft.Extensions.Options.dll
+C:\GeekBrains\SecondYear\3 Разработка сетевого приложения\Seminar_4\HW\SocketChat.Client\SocketChat\bin\Debug\net6.0\Microsoft.Extensions.Primitives.dll
+C:\GeekBrains\SecondYear\3 Разработка сетевого приложения\Seminar_4\HW\SocketChat.Client\SocketChat\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\GeekBrains\SecondYear\3 Разработка сетевого приложения\Seminar_4\HW\SocketChat.Client\SocketChat\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\GeekBrains\SecondYear\3 Разработка сетевого приложения\Seminar_4\HW\SocketChat.Client\SocketChat\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\GeekBrains\SecondYear\3 Разработка сетевого приложения\Seminar_4\HW\SocketChat.Client\SocketChat\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\GeekBrains\SecondYear\3 Разработка сетевого приложения\Seminar_4\HW\SocketChat.Client\SocketChat\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\GeekBrains\SecondYear\3 Разработка сетевого приложения\Seminar_4\HW\SocketChat.Client\SocketChat\bin\Debug\net6.0\System.IO.Pipelines.dll
+C:\GeekBrains\SecondYear\3 Разработка сетевого приложения\Seminar_4\HW\SocketChat.Client\SocketChat\bin\Debug\net6.0\System.Net.WebSockets.WebSocketProtocol.dll
+C:\GeekBrains\SecondYear\3 Разработка сетевого приложения\Seminar_4\HW\SocketChat.Client\SocketChat\bin\Debug\net6.0\System.Text.Encodings.Web.dll
+C:\GeekBrains\SecondYear\3 Разработка сетевого приложения\Seminar_4\HW\SocketChat.Client\SocketChat\bin\Debug\net6.0\System.Text.Json.dll
+C:\GeekBrains\SecondYear\3 Разработка сетевого приложения\Seminar_4\HW\SocketChat.Client\SocketChat\bin\Debug\net6.0\System.Threading.Channels.dll
+C:\GeekBrains\SecondYear\3 Разработка сетевого приложения\Seminar_4\HW\SocketChat.Client\SocketChat\bin\Debug\net6.0\runtimes\browser\lib\net6.0\System.Text.Encodings.Web.dll
+C:\GeekBrains\SecondYear\3 Разработка сетевого приложения\Seminar_4\HW\SocketChat.Client\SocketChat\bin\Debug\net6.0\SocketChat.BLL.Logic.dll
+C:\GeekBrains\SecondYear\3 Разработка сетевого приложения\Seminar_4\HW\SocketChat.Client\SocketChat\bin\Debug\net6.0\SocketChat.Common.Entities.dll
+C:\GeekBrains\SecondYear\3 Разработка сетевого приложения\Seminar_4\HW\SocketChat.Client\SocketChat\bin\Debug\net6.0\SocketChat.DAL.Repositories.dll
+C:\GeekBrains\SecondYear\3 Разработка сетевого приложения\Seminar_4\HW\SocketChat.Client\SocketChat\bin\Debug\net6.0\SocketChat.BLL.Logic.pdb
+C:\GeekBrains\SecondYear\3 Разработка сетевого приложения\Seminar_4\HW\SocketChat.Client\SocketChat\bin\Debug\net6.0\SocketChat.Common.Entities.pdb
+C:\GeekBrains\SecondYear\3 Разработка сетевого приложения\Seminar_4\HW\SocketChat.Client\SocketChat\bin\Debug\net6.0\SocketChat.DAL.Repositories.pdb
+C:\GeekBrains\SecondYear\3 Разработка сетевого приложения\Seminar_4\HW\SocketChat.Client\SocketChat\obj\Debug\net6.0\SocketChat.csproj.AssemblyReference.cache
+C:\GeekBrains\SecondYear\3 Разработка сетевого приложения\Seminar_4\HW\SocketChat.Client\SocketChat\obj\Debug\net6.0\SocketChat.GeneratedMSBuildEditorConfig.editorconfig
+C:\GeekBrains\SecondYear\3 Разработка сетевого приложения\Seminar_4\HW\SocketChat.Client\SocketChat\obj\Debug\net6.0\SocketChat.AssemblyInfoInputs.cache
+C:\GeekBrains\SecondYear\3 Разработка сетевого приложения\Seminar_4\HW\SocketChat.Client\SocketChat\obj\Debug\net6.0\SocketChat.AssemblyInfo.cs
+C:\GeekBrains\SecondYear\3 Разработка сетевого приложения\Seminar_4\HW\SocketChat.Client\SocketChat\obj\Debug\net6.0\SocketChat.csproj.CoreCompileInputs.cache
+C:\GeekBrains\SecondYear\3 Разработка сетевого приложения\Seminar_4\HW\SocketChat.Client\SocketChat\obj\Debug\net6.0\SocketChat.MvcApplicationPartsAssemblyInfo.cs
+C:\GeekBrains\SecondYear\3 Разработка сетевого приложения\Seminar_4\HW\SocketChat.Client\SocketChat\obj\Debug\net6.0\SocketChat.MvcApplicationPartsAssemblyInfo.cache
+C:\GeekBrains\SecondYear\3 Разработка сетевого приложения\Seminar_4\HW\SocketChat.Client\SocketChat\obj\Debug\net6.0\SocketChat.sourcelink.json
+C:\GeekBrains\SecondYear\3 Разработка сетевого приложения\Seminar_4\HW\SocketChat.Client\SocketChat\obj\Debug\net6.0\staticwebassets.build.json
+C:\GeekBrains\SecondYear\3 Разработка сетевого приложения\Seminar_4\HW\SocketChat.Client\SocketChat\obj\Debug\net6.0\staticwebassets.development.json
+C:\GeekBrains\SecondYear\3 Разработка сетевого приложения\Seminar_4\HW\SocketChat.Client\SocketChat\obj\Debug\net6.0\staticwebassets\msbuild.SocketChat.Microsoft.AspNetCore.StaticWebAssets.props
+C:\GeekBrains\SecondYear\3 Разработка сетевого приложения\Seminar_4\HW\SocketChat.Client\SocketChat\obj\Debug\net6.0\staticwebassets\msbuild.build.SocketChat.props
+C:\GeekBrains\SecondYear\3 Разработка сетевого приложения\Seminar_4\HW\SocketChat.Client\SocketChat\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.SocketChat.props
+C:\GeekBrains\SecondYear\3 Разработка сетевого приложения\Seminar_4\HW\SocketChat.Client\SocketChat\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.SocketChat.props
+C:\GeekBrains\SecondYear\3 Разработка сетевого приложения\Seminar_4\HW\SocketChat.Client\SocketChat\obj\Debug\net6.0\staticwebassets.pack.json
+C:\GeekBrains\SecondYear\3 Разработка сетевого приложения\Seminar_4\HW\SocketChat.Client\SocketChat\obj\Debug\net6.0\scopedcss\bundle\SocketChat.styles.css
+C:\GeekBrains\SecondYear\3 Разработка сетевого приложения\Seminar_4\HW\SocketChat.Client\SocketChat\obj\Debug\net6.0\SocketChat.csproj.Up2Date
+C:\GeekBrains\SecondYear\3 Разработка сетевого приложения\Seminar_4\HW\SocketChat.Client\SocketChat\obj\Debug\net6.0\SocketChat.dll
+C:\GeekBrains\SecondYear\3 Разработка сетевого приложения\Seminar_4\HW\SocketChat.Client\SocketChat\obj\Debug\net6.0\refint\SocketChat.dll
+C:\GeekBrains\SecondYear\3 Разработка сетевого приложения\Seminar_4\HW\SocketChat.Client\SocketChat\obj\Debug\net6.0\SocketChat.pdb
+C:\GeekBrains\SecondYear\3 Разработка сетевого приложения\Seminar_4\HW\SocketChat.Client\SocketChat\obj\Debug\net6.0\SocketChat.genruntimeconfig.cache
+C:\GeekBrains\SecondYear\3 Разработка сетевого приложения\Seminar_4\HW\SocketChat.Client\SocketChat\obj\Debug\net6.0\ref\SocketChat.dll
