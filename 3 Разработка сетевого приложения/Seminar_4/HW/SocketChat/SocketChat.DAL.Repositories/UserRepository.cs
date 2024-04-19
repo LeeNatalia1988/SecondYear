@@ -18,7 +18,7 @@ namespace SocketChat.DAL.Repositories
             }
         }
 
-        public static async void AddUser(User user)
+        public static async Task AddUser(User user)
         {
             await Task.Delay(1000);
             users.Add(user);

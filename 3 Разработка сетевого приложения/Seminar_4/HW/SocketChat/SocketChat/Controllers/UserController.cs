@@ -19,25 +19,17 @@ namespace SocketChat.Controllers
 
         // GET: api/<UserController>
         [HttpGet]
-        public async IAsyncEnumerable<User> Get()
+        public async Task<List<User>> Get()
         {
-            var users = _userLogic.GetAll();
-            await foreach(var u in users)
-            {
-                if (u != null)
-                {
-                    yield return u;
-                }
-            }
-            
+            var users = await _userLogic.GetAllAsync();
+            return users;
         }
         
         // POST api/<UserController>
         [HttpPost]
         public async void Post([FromBody] User user)
         {
-            await Task.Delay(1000);
-            _userLogic.Add(user);
+            await _userLogic.AddAsync(user);
         }
     }
 }

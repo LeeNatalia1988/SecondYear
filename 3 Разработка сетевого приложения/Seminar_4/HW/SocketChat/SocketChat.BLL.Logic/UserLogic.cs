@@ -10,19 +10,14 @@ namespace SocketChat.BLL.Logic
 {
     public class UserLogic : IUserLogic
     {
-        public async void Add(User user)
+        public async Task AddAsync(User user)
         {
-            await Task.Delay(1000);
-            UserRepository.AddUser(user);
+            await UserRepository.AddUser(user);
         }
 
-        public async IAsyncEnumerable<User> GetAll()
+        public async Task<List<User>> GetAllAsync()
         {
-            await Task.Delay(1000);
-            await foreach (var u in UserRepository.GetAll())
-            {
-                yield return u;
-            }
+            return (List<User>)UserRepository.GetAll();
         }
     }
 }
