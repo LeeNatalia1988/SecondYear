@@ -3,18 +3,6 @@
   "WorkspaceRootPath": "C:\\GeekBrains\\SecondYear\\3 \u0420\u0430\u0437\u0440\u0430\u0431\u043E\u0442\u043A\u0430 \u0441\u0435\u0442\u0435\u0432\u043E\u0433\u043E \u043F\u0440\u0438\u043B\u043E\u0436\u0435\u043D\u0438\u044F\\Seminar_5\\HW\\SocketChat\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{2EC537A7-ECFB-4729-A966-E4BB68B6B7F1}|SocketChat.Common.Entities\\SocketChat.Common.Entities.csproj|C:\\GeekBrains\\SecondYear\\3 \u0420\u0430\u0437\u0440\u0430\u0431\u043E\u0442\u043A\u0430 \u0441\u0435\u0442\u0435\u0432\u043E\u0433\u043E \u043F\u0440\u0438\u043B\u043E\u0436\u0435\u043D\u0438\u044F\\Seminar_5\\HW\\SocketChat\\socketchat.common.entities\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{2EC537A7-ECFB-4729-A966-E4BB68B6B7F1}|SocketChat.Common.Entities\\SocketChat.Common.Entities.csproj|solutionrelative:socketchat.common.entities\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{2EC537A7-ECFB-4729-A966-E4BB68B6B7F1}|SocketChat.Common.Entities\\SocketChat.Common.Entities.csproj|C:\\GeekBrains\\SecondYear\\3 \u0420\u0430\u0437\u0440\u0430\u0431\u043E\u0442\u043A\u0430 \u0441\u0435\u0442\u0435\u0432\u043E\u0433\u043E \u043F\u0440\u0438\u043B\u043E\u0436\u0435\u043D\u0438\u044F\\Seminar_5\\HW\\SocketChat\\socketchat.common.entities\\signalrmessage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{2EC537A7-ECFB-4729-A966-E4BB68B6B7F1}|SocketChat.Common.Entities\\SocketChat.Common.Entities.csproj|solutionrelative:socketchat.common.entities\\signalrmessage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{0CD80775-4858-4406-B953-1E8DE414D48C}|SocketChat.DAL.Repositories\\SocketChat.DAL.Repositories.csproj|C:\\GeekBrains\\SecondYear\\3 \u0420\u0430\u0437\u0440\u0430\u0431\u043E\u0442\u043A\u0430 \u0441\u0435\u0442\u0435\u0432\u043E\u0433\u043E \u043F\u0440\u0438\u043B\u043E\u0436\u0435\u043D\u0438\u044F\\Seminar_5\\HW\\SocketChat\\socketchat.dal.repositories\\chatcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{0CD80775-4858-4406-B953-1E8DE414D48C}|SocketChat.DAL.Repositories\\SocketChat.DAL.Repositories.csproj|solutionrelative:socketchat.dal.repositories\\chatcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{0CD80775-4858-4406-B953-1E8DE414D48C}|SocketChat.DAL.Repositories\\SocketChat.DAL.Repositories.csproj|c:\\geekbrains\\secondyear\\3 \u0440\u0430\u0437\u0440\u0430\u0431\u043E\u0442\u043A\u0430 \u0441\u0435\u0442\u0435\u0432\u043E\u0433\u043E \u043F\u0440\u0438\u043B\u043E\u0436\u0435\u043D\u0438\u044F\\seminar_5\\hw\\socketchat\\socketchat.dal.repositories\\userrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{0CD80775-4858-4406-B953-1E8DE414D48C}|SocketChat.DAL.Repositories\\SocketChat.DAL.Repositories.csproj|solutionrelative:socketchat.dal.repositories\\userrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -23,12 +11,20 @@
       "RelativeMoniker": "D:0:0:{0B56010E-BC00-4514-9311-A5A4A088C9D4}|SocketChat\\SocketChat.csproj|solutionrelative:socketchat\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{0CD80775-4858-4406-B953-1E8DE414D48C}|SocketChat.DAL.Repositories\\SocketChat.DAL.Repositories.csproj|C:\\GeekBrains\\SecondYear\\3 \u0420\u0430\u0437\u0440\u0430\u0431\u043E\u0442\u043A\u0430 \u0441\u0435\u0442\u0435\u0432\u043E\u0433\u043E \u043F\u0440\u0438\u043B\u043E\u0436\u0435\u043D\u0438\u044F\\Seminar_5\\HW\\SocketChat\\socketchat.dal.repositories\\iuserrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{0CD80775-4858-4406-B953-1E8DE414D48C}|SocketChat.DAL.Repositories\\SocketChat.DAL.Repositories.csproj|solutionrelative:socketchat.dal.repositories\\iuserrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{2CCAAD72-16A0-43FF-915C-EDABEC9A9014}|SocketChat.BLL.Logic\\SocketChat.BLL.Logic.csproj|C:\\GeekBrains\\SecondYear\\3 \u0420\u0430\u0437\u0440\u0430\u0431\u043E\u0442\u043A\u0430 \u0441\u0435\u0442\u0435\u0432\u043E\u0433\u043E \u043F\u0440\u0438\u043B\u043E\u0436\u0435\u043D\u0438\u044F\\Seminar_5\\HW\\SocketChat\\socketchat.bll.logic\\userlogic.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{2CCAAD72-16A0-43FF-915C-EDABEC9A9014}|SocketChat.BLL.Logic\\SocketChat.BLL.Logic.csproj|solutionrelative:socketchat.bll.logic\\userlogic.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2EC537A7-ECFB-4729-A966-E4BB68B6B7F1}|SocketChat.Common.Entities\\SocketChat.Common.Entities.csproj|C:\\GeekBrains\\SecondYear\\3 \u0420\u0430\u0437\u0440\u0430\u0431\u043E\u0442\u043A\u0430 \u0441\u0435\u0442\u0435\u0432\u043E\u0433\u043E \u043F\u0440\u0438\u043B\u043E\u0436\u0435\u043D\u0438\u044F\\Seminar_5\\HW\\SocketChat\\socketchat.common.entities\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2EC537A7-ECFB-4729-A966-E4BB68B6B7F1}|SocketChat.Common.Entities\\SocketChat.Common.Entities.csproj|solutionrelative:socketchat.common.entities\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0CD80775-4858-4406-B953-1E8DE414D48C}|SocketChat.DAL.Repositories\\SocketChat.DAL.Repositories.csproj|C:\\GeekBrains\\SecondYear\\3 \u0420\u0430\u0437\u0440\u0430\u0431\u043E\u0442\u043A\u0430 \u0441\u0435\u0442\u0435\u0432\u043E\u0433\u043E \u043F\u0440\u0438\u043B\u043E\u0436\u0435\u043D\u0438\u044F\\Seminar_5\\HW\\SocketChat\\socketchat.dal.repositories\\chatcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0CD80775-4858-4406-B953-1E8DE414D48C}|SocketChat.DAL.Repositories\\SocketChat.DAL.Repositories.csproj|solutionrelative:socketchat.dal.repositories\\chatcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2EC537A7-ECFB-4729-A966-E4BB68B6B7F1}|SocketChat.Common.Entities\\SocketChat.Common.Entities.csproj|C:\\GeekBrains\\SecondYear\\3 \u0420\u0430\u0437\u0440\u0430\u0431\u043E\u0442\u043A\u0430 \u0441\u0435\u0442\u0435\u0432\u043E\u0433\u043E \u043F\u0440\u0438\u043B\u043E\u0436\u0435\u043D\u0438\u044F\\Seminar_5\\HW\\SocketChat\\socketchat.common.entities\\signalrmessage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2EC537A7-ECFB-4729-A966-E4BB68B6B7F1}|SocketChat.Common.Entities\\SocketChat.Common.Entities.csproj|solutionrelative:socketchat.common.entities\\signalrmessage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -38,7 +34,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 6,
+          "SelectedChildIndex": 2,
           "Children": [
             {
               "$type": "Bookmark",
@@ -46,45 +42,56 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "UserLogic.cs",
-              "DocumentMoniker": "C:\\GeekBrains\\SecondYear\\3 \u0420\u0430\u0437\u0440\u0430\u0431\u043E\u0442\u043A\u0430 \u0441\u0435\u0442\u0435\u0432\u043E\u0433\u043E \u043F\u0440\u0438\u043B\u043E\u0436\u0435\u043D\u0438\u044F\\Seminar_5\\HW\\SocketChat\\SocketChat.BLL.Logic\\UserLogic.cs",
-              "RelativeDocumentMoniker": "SocketChat.BLL.Logic\\UserLogic.cs",
-              "ToolTip": "C:\\GeekBrains\\SecondYear\\3 \u0420\u0430\u0437\u0440\u0430\u0431\u043E\u0442\u043A\u0430 \u0441\u0435\u0442\u0435\u0432\u043E\u0433\u043E \u043F\u0440\u0438\u043B\u043E\u0436\u0435\u043D\u0438\u044F\\Seminar_5\\HW\\SocketChat\\SocketChat.BLL.Logic\\UserLogic.cs",
-              "RelativeToolTip": "SocketChat.BLL.Logic\\UserLogic.cs",
-              "ViewState": "AQIAAAYAAAAAAAAAAAAAABwAAAABAAAA",
+              "DocumentIndex": 5,
+              "Title": "SignalRMessage.cs",
+              "DocumentMoniker": "C:\\GeekBrains\\SecondYear\\3 \u0420\u0430\u0437\u0440\u0430\u0431\u043E\u0442\u043A\u0430 \u0441\u0435\u0442\u0435\u0432\u043E\u0433\u043E \u043F\u0440\u0438\u043B\u043E\u0436\u0435\u043D\u0438\u044F\\Seminar_5\\HW\\SocketChat\\SocketChat.Common.Entities\\SignalRMessage.cs",
+              "RelativeDocumentMoniker": "SocketChat.Common.Entities\\SignalRMessage.cs",
+              "ToolTip": "C:\\GeekBrains\\SecondYear\\3 \u0420\u0430\u0437\u0440\u0430\u0431\u043E\u0442\u043A\u0430 \u0441\u0435\u0442\u0435\u0432\u043E\u0433\u043E \u043F\u0440\u0438\u043B\u043E\u0436\u0435\u043D\u0438\u044F\\Seminar_5\\HW\\SocketChat\\SocketChat.Common.Entities\\SignalRMessage.cs",
+              "RelativeToolTip": "SocketChat.Common.Entities\\SignalRMessage.cs",
+              "ViewState": "AQIAAAsAAAAAAAAAAAAxwBcAAAAIAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-18T13:49:48.16Z"
+              "WhenOpened": "2024-04-20T13:20:33.158Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 0,
               "Title": "UserRepository.cs",
               "DocumentMoniker": "C:\\GeekBrains\\SecondYear\\3 \u0420\u0430\u0437\u0440\u0430\u0431\u043E\u0442\u043A\u0430 \u0441\u0435\u0442\u0435\u0432\u043E\u0433\u043E \u043F\u0440\u0438\u043B\u043E\u0436\u0435\u043D\u0438\u044F\\Seminar_5\\HW\\SocketChat\\SocketChat.DAL.Repositories\\UserRepository.cs",
               "RelativeDocumentMoniker": "SocketChat.DAL.Repositories\\UserRepository.cs",
               "ToolTip": "C:\\GeekBrains\\SecondYear\\3 \u0420\u0430\u0437\u0440\u0430\u0431\u043E\u0442\u043A\u0430 \u0441\u0435\u0442\u0435\u0432\u043E\u0433\u043E \u043F\u0440\u0438\u043B\u043E\u0436\u0435\u043D\u0438\u044F\\Seminar_5\\HW\\SocketChat\\SocketChat.DAL.Repositories\\UserRepository.cs",
               "RelativeToolTip": "SocketChat.DAL.Repositories\\UserRepository.cs",
-              "ViewState": "AQIAAAYAAAAAAAAAAAAkwBEAAABJAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABsAAAApAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-18T13:45:31.318Z",
+              "WhenOpened": "2024-04-20T13:13:17.485Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "IUserRepository.cs",
-              "DocumentMoniker": "C:\\GeekBrains\\SecondYear\\3 \u0420\u0430\u0437\u0440\u0430\u0431\u043E\u0442\u043A\u0430 \u0441\u0435\u0442\u0435\u0432\u043E\u0433\u043E \u043F\u0440\u0438\u043B\u043E\u0436\u0435\u043D\u0438\u044F\\Seminar_5\\HW\\SocketChat\\SocketChat.DAL.Repositories\\IUserRepository.cs",
-              "RelativeDocumentMoniker": "SocketChat.DAL.Repositories\\IUserRepository.cs",
-              "ToolTip": "C:\\GeekBrains\\SecondYear\\3 \u0420\u0430\u0437\u0440\u0430\u0431\u043E\u0442\u043A\u0430 \u0441\u0435\u0442\u0435\u0432\u043E\u0433\u043E \u043F\u0440\u0438\u043B\u043E\u0436\u0435\u043D\u0438\u044F\\Seminar_5\\HW\\SocketChat\\SocketChat.DAL.Repositories\\IUserRepository.cs",
-              "RelativeToolTip": "SocketChat.DAL.Repositories\\IUserRepository.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAARAAAA",
+              "DocumentIndex": 1,
+              "Title": "UserController.cs",
+              "DocumentMoniker": "C:\\GeekBrains\\SecondYear\\3 \u0420\u0430\u0437\u0440\u0430\u0431\u043E\u0442\u043A\u0430 \u0441\u0435\u0442\u0435\u0432\u043E\u0433\u043E \u043F\u0440\u0438\u043B\u043E\u0436\u0435\u043D\u0438\u044F\\Seminar_5\\HW\\SocketChat\\SocketChat\\Controllers\\UserController.cs",
+              "RelativeDocumentMoniker": "SocketChat\\Controllers\\UserController.cs",
+              "ToolTip": "C:\\GeekBrains\\SecondYear\\3 \u0420\u0430\u0437\u0440\u0430\u0431\u043E\u0442\u043A\u0430 \u0441\u0435\u0442\u0435\u0432\u043E\u0433\u043E \u043F\u0440\u0438\u043B\u043E\u0436\u0435\u043D\u0438\u044F\\Seminar_5\\HW\\SocketChat\\SocketChat\\Controllers\\UserController.cs",
+              "RelativeToolTip": "SocketChat\\Controllers\\UserController.cs",
+              "ViewState": "AQIAAAsAAAAAAAAAAAAAwAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-18T13:45:17.28Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-04-20T13:13:04.608Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 2,
+              "Title": "UserLogic.cs",
+              "DocumentMoniker": "C:\\GeekBrains\\SecondYear\\3 \u0420\u0430\u0437\u0440\u0430\u0431\u043E\u0442\u043A\u0430 \u0441\u0435\u0442\u0435\u0432\u043E\u0433\u043E \u043F\u0440\u0438\u043B\u043E\u0436\u0435\u043D\u0438\u044F\\Seminar_5\\HW\\SocketChat\\SocketChat.BLL.Logic\\UserLogic.cs",
+              "RelativeDocumentMoniker": "SocketChat.BLL.Logic\\UserLogic.cs",
+              "ToolTip": "C:\\GeekBrains\\SecondYear\\3 \u0420\u0430\u0437\u0440\u0430\u0431\u043E\u0442\u043A\u0430 \u0441\u0435\u0442\u0435\u0432\u043E\u0433\u043E \u043F\u0440\u0438\u043B\u043E\u0436\u0435\u043D\u0438\u044F\\Seminar_5\\HW\\SocketChat\\SocketChat.BLL.Logic\\UserLogic.cs",
+              "RelativeToolTip": "SocketChat.BLL.Logic\\UserLogic.cs",
+              "ViewState": "AQIAAAcAAAAAAAAAAAAAwBwAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-18T13:49:48.16Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
               "Title": "ChatContext.cs",
               "DocumentMoniker": "C:\\GeekBrains\\SecondYear\\3 \u0420\u0430\u0437\u0440\u0430\u0431\u043E\u0442\u043A\u0430 \u0441\u0435\u0442\u0435\u0432\u043E\u0433\u043E \u043F\u0440\u0438\u043B\u043E\u0436\u0435\u043D\u0438\u044F\\Seminar_5\\HW\\SocketChat\\SocketChat.DAL.Repositories\\ChatContext.cs",
               "RelativeDocumentMoniker": "SocketChat.DAL.Repositories\\ChatContext.cs",
@@ -92,47 +99,19 @@
               "RelativeToolTip": "SocketChat.DAL.Repositories\\ChatContext.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAAMAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-18T13:44:58.635Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-04-18T13:44:58.635Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "UserController.cs",
-              "DocumentMoniker": "C:\\GeekBrains\\SecondYear\\3 \u0420\u0430\u0437\u0440\u0430\u0431\u043E\u0442\u043A\u0430 \u0441\u0435\u0442\u0435\u0432\u043E\u0433\u043E \u043F\u0440\u0438\u043B\u043E\u0436\u0435\u043D\u0438\u044F\\Seminar_5\\HW\\SocketChat\\SocketChat\\Controllers\\UserController.cs",
-              "RelativeDocumentMoniker": "SocketChat\\Controllers\\UserController.cs",
-              "ToolTip": "C:\\GeekBrains\\SecondYear\\3 \u0420\u0430\u0437\u0440\u0430\u0431\u043E\u0442\u043A\u0430 \u0441\u0435\u0442\u0435\u0432\u043E\u0433\u043E \u043F\u0440\u0438\u043B\u043E\u0436\u0435\u043D\u0438\u044F\\Seminar_5\\HW\\SocketChat\\SocketChat\\Controllers\\UserController.cs",
-              "RelativeToolTip": "SocketChat\\Controllers\\UserController.cs",
-              "ViewState": "AQIAAAkAAAAAAAAAAAAuwAkAAAATAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-18T11:42:52.137Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 3,
               "Title": "User.cs",
               "DocumentMoniker": "C:\\GeekBrains\\SecondYear\\3 \u0420\u0430\u0437\u0440\u0430\u0431\u043E\u0442\u043A\u0430 \u0441\u0435\u0442\u0435\u0432\u043E\u0433\u043E \u043F\u0440\u0438\u043B\u043E\u0436\u0435\u043D\u0438\u044F\\Seminar_5\\HW\\SocketChat\\SocketChat.Common.Entities\\User.cs",
               "RelativeDocumentMoniker": "SocketChat.Common.Entities\\User.cs",
               "ToolTip": "C:\\GeekBrains\\SecondYear\\3 \u0420\u0430\u0437\u0440\u0430\u0431\u043E\u0442\u043A\u0430 \u0441\u0435\u0442\u0435\u0432\u043E\u0433\u043E \u043F\u0440\u0438\u043B\u043E\u0436\u0435\u043D\u0438\u044F\\Seminar_5\\HW\\SocketChat\\SocketChat.Common.Entities\\User.cs",
               "RelativeToolTip": "SocketChat.Common.Entities\\User.cs",
-              "ViewState": "AQIAAAYAAAAAAAAAAAAuwA8AAAAcAAAA",
+              "ViewState": "AQIAAAUAAAAAAAAAAAAmwBUAAAAXAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-18T07:52:58.305Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "SignalRMessage.cs",
-              "DocumentMoniker": "C:\\GeekBrains\\SecondYear\\3 \u0420\u0430\u0437\u0440\u0430\u0431\u043E\u0442\u043A\u0430 \u0441\u0435\u0442\u0435\u0432\u043E\u0433\u043E \u043F\u0440\u0438\u043B\u043E\u0436\u0435\u043D\u0438\u044F\\Seminar_5\\HW\\SocketChat\\SocketChat.Common.Entities\\SignalRMessage.cs",
-              "RelativeDocumentMoniker": "SocketChat.Common.Entities\\SignalRMessage.cs",
-              "ToolTip": "C:\\GeekBrains\\SecondYear\\3 \u0420\u0430\u0437\u0440\u0430\u0431\u043E\u0442\u043A\u0430 \u0441\u0435\u0442\u0435\u0432\u043E\u0433\u043E \u043F\u0440\u0438\u043B\u043E\u0436\u0435\u043D\u0438\u044F\\Seminar_5\\HW\\SocketChat\\SocketChat.Common.Entities\\SignalRMessage.cs",
-              "RelativeToolTip": "SocketChat.Common.Entities\\SignalRMessage.cs",
-              "ViewState": "AQIAAAYAAAAAAAAAAAAAABEAAAAbAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-18T07:46:55.04Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-04-18T07:52:58.305Z"
             }
           ]
         }
