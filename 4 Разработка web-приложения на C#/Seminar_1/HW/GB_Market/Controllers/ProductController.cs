@@ -16,7 +16,7 @@ namespace GB_Market.Controllers
             {
                 using (var ctx = new ProductContext())
                 {
-                    if (ctx.Products.Count(x => x.Name.ToLower() == name.ToLower()) > 0)
+                    if (ctx.Products.FirstOrDefault(x => x.Name.ToLower() == name.ToLower()) != null)
                     {
                         return StatusCode(409);
                     }
@@ -58,7 +58,7 @@ namespace GB_Market.Controllers
             {
                 using (var ctx = new ProductContext())
                 {
-                    if (ctx.Products.Count(x => x.Name.ToLower() == name.ToLower()) == 0)
+                    if (ctx.Products.FirstOrDefault(x => x.Name.ToLower() == name.ToLower()) == null)
                     {
                         return StatusCode(406);
                     }
@@ -85,7 +85,7 @@ namespace GB_Market.Controllers
             {
                 using (var ctx = new ProductContext())
                 {
-                    if (ctx.Products.Count(x => x.Name.ToLower() == name.ToLower()) == 0)
+                    if (ctx.Products.FirstOrDefault(x => x.Name.ToLower() == name.ToLower()) == null)
                     {
                         return StatusCode(406);
                     }
