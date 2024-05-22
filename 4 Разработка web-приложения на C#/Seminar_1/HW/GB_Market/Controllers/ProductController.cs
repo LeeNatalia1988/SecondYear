@@ -52,19 +52,19 @@ namespace GB_Market.Controllers
         }
 
         [HttpPost(template: "delete_product")]
-        public ActionResult DeleteProduct(string name)
+        public ActionResult DeleteProduct(int Id)
         {
             try
             {
                 using (var ctx = new ProductContext())
                 {
-                    if (ctx.Products.FirstOrDefault(x => x.Name.ToLower() == name.ToLower()) == null)
+                    if (ctx.Products.FirstOrDefault(x => x.Id == Id) == null)
                     {
                         return StatusCode(406);
                     }
                     else
                     {
-                        var product = ctx.Products.Where(x => x.Name.ToLower() == name.ToLower()).FirstOrDefault();
+                        var product = ctx.Products.Where(x => x.Id == Id).FirstOrDefault();
                         ctx.Products.Remove(product);
                         ctx.SaveChanges();
                     }
