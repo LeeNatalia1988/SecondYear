@@ -51,7 +51,7 @@ namespace GB_Market.Controllers
             }
         }
 
-        [HttpPost(template: "delete_product")]
+        [HttpDelete(template: "delete_product")]
         public ActionResult DeleteProduct(int Id)
         {
             try
@@ -78,8 +78,8 @@ namespace GB_Market.Controllers
             }
         }
 
-        [HttpPost(template: "patch_product_description")]
-        public ActionResult PatchProduct(string name, string description)
+        [HttpPatch(template: "change_product_description")]
+        public ActionResult ChangeProductDescription(string name, string description)
         {
             try
             {

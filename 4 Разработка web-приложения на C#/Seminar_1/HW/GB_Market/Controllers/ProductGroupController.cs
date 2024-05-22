@@ -51,7 +51,7 @@ namespace GB_Market.Controllers
             }
         }
 
-        [HttpPost(template: "delete_product_group")]
+        [HttpDelete(template: "delete_product_group")]
         public ActionResult DeleteProductGroup(int Id)
         {
             try
@@ -77,8 +77,8 @@ namespace GB_Market.Controllers
                 return StatusCode(500);
             }
         }
-        [HttpPost(template: "patch_product_group_description")]
-        public ActionResult PatchProductGroupDescription(string name, string description)
+        [HttpPatch(template: "change_product_group_description")]
+        public ActionResult ChangeProductGroupDescription(string name, string description)
         {
             try
             {
