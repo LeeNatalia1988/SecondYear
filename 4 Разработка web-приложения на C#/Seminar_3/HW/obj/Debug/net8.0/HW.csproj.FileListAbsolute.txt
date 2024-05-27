@@ -1,0 +1,8 @@
+C:\GeekBrains\SecondYear\4 Разработка web-приложения на C#\Seminar_3\HW\obj\Debug\net8.0\HW.GeneratedMSBuildEditorConfig.editorconfig
+C:\GeekBrains\SecondYear\4 Разработка web-приложения на C#\Seminar_3\HW\obj\Debug\net8.0\HW.AssemblyInfoInputs.cache
+C:\GeekBrains\SecondYear\4 Разработка web-приложения на C#\Seminar_3\HW\obj\Debug\net8.0\HW.AssemblyInfo.cs
+C:\GeekBrains\SecondYear\4 Разработка web-приложения на C#\Seminar_3\HW\obj\Debug\net8.0\HW.csproj.CoreCompileInputs.cache
+C:\GeekBrains\SecondYear\4 Разработка web-приложения на C#\Seminar_3\HW\obj\Debug\net8.0\HW.MvcApplicationPartsAssemblyInfo.cache
+C:\GeekBrains\SecondYear\4 Разработка web-приложения на C#\Seminar_3\HW\obj\Debug\net8.0\HW.RazorAssemblyInfo.cache
+C:\GeekBrains\SecondYear\4 Разработка web-приложения на C#\Seminar_3\HW\obj\Debug\net8.0\HW.RazorAssemblyInfo.cs
+C:\GeekBrains\SecondYear\4 Разработка web-приложения на C#\Seminar_3\HW\obj\Debug\net8.0\HW.sourcelink.json

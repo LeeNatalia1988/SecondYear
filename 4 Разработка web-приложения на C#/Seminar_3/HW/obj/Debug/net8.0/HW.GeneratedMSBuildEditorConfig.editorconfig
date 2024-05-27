@@ -1,0 +1,103 @@
+is_global = true
+build_property.TargetFramework = net8.0
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = true
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = 
+build_property.PlatformNeutralAssembly = 
+build_property.EnforceExtendedAnalyzerRules = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property.RootNamespace = HW
+build_property.RootNamespace = HW
+build_property.ProjectDir = C:\GeekBrains\SecondYear\4 Разработка web-приложения на C#\Seminar_3\HW\
+build_property.EnableComHosting = 
+build_property.EnableGeneratedComInterfaceComImportInterop = 
+build_property.RazorLangVersion = 8.0
+build_property.SupportLocalizedComponentNames = 
+build_property.GenerateRazorMetadataSourceChecksumAttributes = 
+build_property.MSBuildProjectDirectory = C:\GeekBrains\SecondYear\4 Разработка web-приложения на C#\Seminar_3\HW
+build_property._RazorSourceGeneratorDebug = 
+
+[C:/GeekBrains/SecondYear/4 Разработка web-приложения на C\#/Seminar_3/HW/Market/Pages/Error.cshtml]
+build_metadata.AdditionalFiles.TargetPath = TWFya2V0XFBhZ2VzXEVycm9yLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/GeekBrains/SecondYear/4 Разработка web-приложения на C\#/Seminar_3/HW/Market/Pages/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = TWFya2V0XFBhZ2VzXEluZGV4LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/GeekBrains/SecondYear/4 Разработка web-приложения на C\#/Seminar_3/HW/Market/Pages/Privacy.cshtml]
+build_metadata.AdditionalFiles.TargetPath = TWFya2V0XFBhZ2VzXFByaXZhY3kuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/GeekBrains/SecondYear/4 Разработка web-приложения на C\#/Seminar_3/HW/Market/Pages/Shared/_ValidationScriptsPartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = TWFya2V0XFBhZ2VzXFNoYXJlZFxfVmFsaWRhdGlvblNjcmlwdHNQYXJ0aWFsLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/GeekBrains/SecondYear/4 Разработка web-приложения на C\#/Seminar_3/HW/Market/Pages/_ViewImports.cshtml]
+build_metadata.AdditionalFiles.TargetPath = TWFya2V0XFBhZ2VzXF9WaWV3SW1wb3J0cy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/GeekBrains/SecondYear/4 Разработка web-приложения на C\#/Seminar_3/HW/Market/Pages/_ViewStart.cshtml]
+build_metadata.AdditionalFiles.TargetPath = TWFya2V0XFBhZ2VzXF9WaWV3U3RhcnQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/GeekBrains/SecondYear/4 Разработка web-приложения на C\#/Seminar_3/HW/Notes/Pages/Error.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Tm90ZXNcUGFnZXNcRXJyb3IuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/GeekBrains/SecondYear/4 Разработка web-приложения на C\#/Seminar_3/HW/Notes/Pages/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Tm90ZXNcUGFnZXNcSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/GeekBrains/SecondYear/4 Разработка web-приложения на C\#/Seminar_3/HW/Notes/Pages/Privacy.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Tm90ZXNcUGFnZXNcUHJpdmFjeS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/GeekBrains/SecondYear/4 Разработка web-приложения на C\#/Seminar_3/HW/Notes/Pages/Shared/_ValidationScriptsPartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Tm90ZXNcUGFnZXNcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/GeekBrains/SecondYear/4 Разработка web-приложения на C\#/Seminar_3/HW/Notes/Pages/_ViewImports.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Tm90ZXNcUGFnZXNcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/GeekBrains/SecondYear/4 Разработка web-приложения на C\#/Seminar_3/HW/Notes/Pages/_ViewStart.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Tm90ZXNcUGFnZXNcX1ZpZXdTdGFydC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/GeekBrains/SecondYear/4 Разработка web-приложения на C\#/Seminar_3/HW/Pages/Error.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcRXJyb3IuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/GeekBrains/SecondYear/4 Разработка web-приложения на C\#/Seminar_3/HW/Pages/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/GeekBrains/SecondYear/4 Разработка web-приложения на C\#/Seminar_3/HW/Pages/Privacy.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcUHJpdmFjeS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/GeekBrains/SecondYear/4 Разработка web-приложения на C\#/Seminar_3/HW/Pages/Shared/_ValidationScriptsPartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/GeekBrains/SecondYear/4 Разработка web-приложения на C\#/Seminar_3/HW/Pages/_ViewImports.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/GeekBrains/SecondYear/4 Разработка web-приложения на C\#/Seminar_3/HW/Pages/_ViewStart.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcX1ZpZXdTdGFydC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/GeekBrains/SecondYear/4 Разработка web-приложения на C\#/Seminar_3/HW/Market/Pages/Shared/_Layout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = TWFya2V0XFBhZ2VzXFNoYXJlZFxfTGF5b3V0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = b-0llvvak3nf
+
+[C:/GeekBrains/SecondYear/4 Разработка web-приложения на C\#/Seminar_3/HW/Notes/Pages/Shared/_Layout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Tm90ZXNcUGFnZXNcU2hhcmVkXF9MYXlvdXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = b-wyw2ea636k
+
+[C:/GeekBrains/SecondYear/4 Разработка web-приложения на C\#/Seminar_3/HW/Pages/Shared/_Layout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcU2hhcmVkXF9MYXlvdXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = b-bh27if3qoe

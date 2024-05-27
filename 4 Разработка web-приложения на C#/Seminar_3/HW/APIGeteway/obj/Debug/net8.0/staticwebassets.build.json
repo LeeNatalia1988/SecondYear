@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "ZnP9oTCuwiZZuKeH3I6suyqI1DEXqR6EquYe4UuRLVw=",
+  "Source": "APIGeteway",
+  "BasePath": "_content/APIGeteway",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

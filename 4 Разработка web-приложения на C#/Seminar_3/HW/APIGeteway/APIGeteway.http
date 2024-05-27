@@ -1,0 +1,6 @@
+@APIGeteway_HostAddress = http://localhost:5171
+
+GET {{APIGeteway_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

@@ -2,13 +2,14 @@
 using GB_Market.DB;
 using GB_Market.DTO;
 using GB_Market.Models;
-using Microsoft.AspNetCore.Components;
+
 using Microsoft.AspNetCore.Mvc;
+using Microsoft.AspNetCore.Mvc.ViewFeatures;
 
 namespace GB_Market.Controllers
 {
     [ApiController]
-    [Microsoft.AspNetCore.Components.Route("[controller]")]
+    [Route("[controller]")]
     public class ProductGroupController : ControllerBase
     {
         private readonly IProductGroupRepository _repository;

@@ -1,4 +1,6 @@
 ﻿using GB_Market.DTO;
+using GB_Market.Models;
+using Microsoft.Extensions.Caching.Memory;
 
 namespace GB_Market.Abstractions
 {

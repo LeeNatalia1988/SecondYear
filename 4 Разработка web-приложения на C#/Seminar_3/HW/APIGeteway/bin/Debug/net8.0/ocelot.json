@@ -1,0 +1,58 @@
+{
+  "Routes": [
+    {
+      "DownstreamPathTemplate": "/MyMarket/{method}",
+      "DownstreamScheme": "https",
+      "DownstreamHostAndPorts": [
+        {
+          "Host": "localhost",
+          "Port": 7050
+        }
+      ],
+      "UpstreamPathTemplate": "/MyMarket/{method}",
+      "UpstreamHttpMethod": [ "Get", "Post" ],
+      "SwaggerKey": "MyMarket"
+    },
+    {
+      "DownstreamPathTemplate": "/Note/{method}",
+      "DownstreamScheme": "https",
+      "DownstreamHostAndPorts": [
+        {
+          "Host": "localhost",
+          "Port": 7100
+        }
+      ],
+      "UpstreamPathTemplate": "/Note/{method}",
+      "UpstreamHttpMethod": [ "Get", "Post" ],
+      "SwaggerKey": "Note"
+    }
+  ],
+  "GlobalConfiguration": {
+    "BaseUrl": "https://localhost:7238"
+  },
+  "SwaggerEndPoints": [
+    {
+      "Key": "MyMarket",
+      "TransformByOcelotConfig": false,
+      "Config": [
+        {
+          "Name": "MyMarket API",
+          "Version": "v1",
+          "Url": "https://localhost:7050/swagger/v1/swagger.json"
+        }
+      ]
+    },
+    {
+      "Key": "Note",
+      "TransformByOcelotConfig": false,
+      "Config": [
+        {
+          "Name": "Note API",
+          "Version": "v1",
+          "Url": "https://localhost:7100/swagger/v1/swagger.json"
+        }
+      ]
+    }
+  ]
+}
+

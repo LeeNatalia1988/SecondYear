@@ -132,7 +132,7 @@ namespace GB_Market.Migrations
             modelBuilder.Entity("GB_Market.Models.ProductStorage", b =>
                 {
                     b.HasOne("GB_Market.Models.Product", "Product")
-                        .WithMany("Storages")
+                        .WithMany()
                         .HasForeignKey("ProductId")
                         .OnDelete(DeleteBehavior.Cascade)
                         .IsRequired();
@@ -146,11 +146,6 @@ namespace GB_Market.Migrations
                     b.Navigation("Product");
 
                     b.Navigation("Storage");
-                });
-
-            modelBuilder.Entity("GB_Market.Models.Product", b =>
-                {
-                    b.Navigation("Storages");
                 });
 
             modelBuilder.Entity("GB_Market.Models.ProductGroup", b =>
