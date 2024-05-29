@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.9.34607.119
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MyChat", "MyChat.csproj", "{61B12110-0692-4912-9375-657A765519E2}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UserWorker", "UserWorker\UserWorker.csproj", "{1F95DE5E-0A6C-4DD9-A108-8BA5BC8E11F9}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MessagesWorker", "MessagesWorker\MessagesWorker.csproj", "{279F6FF3-39B0-418E-B32A-154F8C33ABEE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{61B12110-0692-4912-9375-657A765519E2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{61B12110-0692-4912-9375-657A765519E2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{61B12110-0692-4912-9375-657A765519E2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{61B12110-0692-4912-9375-657A765519E2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1F95DE5E-0A6C-4DD9-A108-8BA5BC8E11F9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1F95DE5E-0A6C-4DD9-A108-8BA5BC8E11F9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1F95DE5E-0A6C-4DD9-A108-8BA5BC8E11F9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1F95DE5E-0A6C-4DD9-A108-8BA5BC8E11F9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{279F6FF3-39B0-418E-B32A-154F8C33ABEE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{279F6FF3-39B0-418E-B32A-154F8C33ABEE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{279F6FF3-39B0-418E-B32A-154F8C33ABEE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{279F6FF3-39B0-418E-B32A-154F8C33ABEE}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {81B81622-65A7-4A10-B887-ACAD062206E9}
+	EndGlobalSection
+EndGlobal

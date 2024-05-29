@@ -1,0 +1,8 @@
+C:\GeekBrains\SecondYear\FinalTest\MyChat\obj\Debug\net8.0\MyChat.csproj.AssemblyReference.cache
+C:\GeekBrains\SecondYear\FinalTest\MyChat\obj\Debug\net8.0\MyChat.GeneratedMSBuildEditorConfig.editorconfig
+C:\GeekBrains\SecondYear\FinalTest\MyChat\obj\Debug\net8.0\MyChat.AssemblyInfoInputs.cache
+C:\GeekBrains\SecondYear\FinalTest\MyChat\obj\Debug\net8.0\MyChat.AssemblyInfo.cs
+C:\GeekBrains\SecondYear\FinalTest\MyChat\obj\Debug\net8.0\MyChat.csproj.CoreCompileInputs.cache
+C:\GeekBrains\SecondYear\FinalTest\MyChat\obj\Debug\net8.0\MyChat.MvcApplicationPartsAssemblyInfo.cs
+C:\GeekBrains\SecondYear\FinalTest\MyChat\obj\Debug\net8.0\MyChat.MvcApplicationPartsAssemblyInfo.cache
+C:\GeekBrains\SecondYear\FinalTest\MyChat\obj\Debug\net8.0\MyChat.sourcelink.json

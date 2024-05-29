@@ -1,0 +1,92 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\GeekBrains\\SecondYear\\FinalTest\\MyChat\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{1F95DE5E-0A6C-4DD9-A108-8BA5BC8E11F9}|UserWorker\\UserWorker.csproj|c:\\geekbrains\\secondyear\\finaltest\\mychat\\userworker\\repository\\userrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1F95DE5E-0A6C-4DD9-A108-8BA5BC8E11F9}|UserWorker\\UserWorker.csproj|solutionrelative:userworker\\repository\\userrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1F95DE5E-0A6C-4DD9-A108-8BA5BC8E11F9}|UserWorker\\UserWorker.csproj|c:\\geekbrains\\secondyear\\finaltest\\mychat\\userworker\\controllers\\restrictedcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1F95DE5E-0A6C-4DD9-A108-8BA5BC8E11F9}|UserWorker\\UserWorker.csproj|solutionrelative:userworker\\controllers\\restrictedcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1F95DE5E-0A6C-4DD9-A108-8BA5BC8E11F9}|UserWorker\\UserWorker.csproj|C:\\GeekBrains\\SecondYear\\FinalTest\\MyChat\\userworker\\controllers\\logincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1F95DE5E-0A6C-4DD9-A108-8BA5BC8E11F9}|UserWorker\\UserWorker.csproj|solutionrelative:userworker\\controllers\\logincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1F95DE5E-0A6C-4DD9-A108-8BA5BC8E11F9}|UserWorker\\UserWorker.csproj|C:\\GeekBrains\\SecondYear\\FinalTest\\MyChat\\userworker\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1F95DE5E-0A6C-4DD9-A108-8BA5BC8E11F9}|UserWorker\\UserWorker.csproj|solutionrelative:userworker\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "RestrictedController.cs",
+              "DocumentMoniker": "C:\\GeekBrains\\SecondYear\\FinalTest\\MyChat\\UserWorker\\Controllers\\RestrictedController.cs",
+              "RelativeDocumentMoniker": "UserWorker\\Controllers\\RestrictedController.cs",
+              "ToolTip": "C:\\GeekBrains\\SecondYear\\FinalTest\\MyChat\\UserWorker\\Controllers\\RestrictedController.cs",
+              "RelativeToolTip": "UserWorker\\Controllers\\RestrictedController.cs",
+              "ViewState": "AQIAABMAAAAAAAAAAAAQwBYAAAAjAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-29T04:06:13.941Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "UserRepository.cs",
+              "DocumentMoniker": "C:\\GeekBrains\\SecondYear\\FinalTest\\MyChat\\UserWorker\\Repository\\UserRepository.cs",
+              "RelativeDocumentMoniker": "UserWorker\\Repository\\UserRepository.cs",
+              "ToolTip": "C:\\GeekBrains\\SecondYear\\FinalTest\\MyChat\\UserWorker\\Repository\\UserRepository.cs",
+              "RelativeToolTip": "UserWorker\\Repository\\UserRepository.cs",
+              "ViewState": "AQIAAGwAAAAAAAAAAAAowJIAAAAkAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-29T04:23:36.961Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "UserController.cs",
+              "DocumentMoniker": "C:\\GeekBrains\\SecondYear\\FinalTest\\MyChat\\UserWorker\\Controllers\\UserController.cs",
+              "RelativeDocumentMoniker": "UserWorker\\Controllers\\UserController.cs",
+              "ToolTip": "C:\\GeekBrains\\SecondYear\\FinalTest\\MyChat\\UserWorker\\Controllers\\UserController.cs",
+              "RelativeToolTip": "UserWorker\\Controllers\\UserController.cs",
+              "ViewState": "AQIAABMAAAAAAAAAAAAQwDEAAAAjAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-28T12:43:16.773Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "LoginController.cs",
+              "DocumentMoniker": "C:\\GeekBrains\\SecondYear\\FinalTest\\MyChat\\UserWorker\\Controllers\\LoginController.cs",
+              "RelativeDocumentMoniker": "UserWorker\\Controllers\\LoginController.cs",
+              "ToolTip": "C:\\GeekBrains\\SecondYear\\FinalTest\\MyChat\\UserWorker\\Controllers\\LoginController.cs",
+              "RelativeToolTip": "UserWorker\\Controllers\\LoginController.cs",
+              "ViewState": "AQIAABYAAAAAAAAAAAAQwDMAAAAsAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-28T16:02:40.031Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
