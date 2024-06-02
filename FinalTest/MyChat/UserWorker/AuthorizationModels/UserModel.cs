@@ -4,6 +4,7 @@ namespace UserWorker.AuthorizationModels
 {
     public class UserModel
     {
+        public string Id { get; set; }
         [Required]
         [EmailAddress]
         public string Email { get; set; }

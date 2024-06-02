@@ -1,0 +1,212 @@
+{
+	"info": {
+		"_postman_id": "fbbdb843-c551-4668-af35-706cde880fd8",
+		"name": "New Collection",
+		"schema": "https://schema.getpostman.com/json/collection/v2.1.0/collection.json",
+		"_exporter_id": "34212543"
+	},
+	"item": [
+		{
+			"name": "User_GetUsers",
+			"request": {
+				"auth": {
+					"type": "bearer",
+					"bearer": [
+						{
+							"key": "token",
+							"value": "eyJhbGciOiJodHRwOi8vd3d3LnczLm9yZy8yMDAxLzA0L3htbGRzaWctbW9yZSNyc2Etc2hhMjU2IiwidHlwIjoiSldUIn0.eyJodHRwOi8vc2NoZW1hcy54bWxzb2FwLm9yZy93cy8yMDA1LzA1L2lkZW50aXR5L2NsYWltcy9uYW1laWRlbnRpZmllciI6ImRiOTY2N2Y0LTNlMDktNDU0Zi04NjBjLTFjMjZlMDM0MjhlMiIsImh0dHA6Ly9zY2hlbWFzLm1pY3Jvc29mdC5jb20vd3MvMjAwOC8wNi9pZGVudGl0eS9jbGFpbXMvcm9sZSI6IkFkbWluIiwiZXhwIjoxNzE3MzE2MDgxLCJpc3MiOiJodHRwczovL2xvY2FsaG9zdDo3MTQxIiwiYXVkIjoiaHR0cHM6Ly9sb2NhbGhvc3Q6NzE0MTsgaHR0cHM6Ly9sb2NhbGhvc3Q6NzEwODsgaHR0cHM6Ly9sb2NhbGhvc3Q6NzA2MyJ9.nsI4AItLBaW-rGeik_U1JWNZ98xHpBtpRkhxX7UOTXDNfrKdetUY7hkaz9l4llvGjCEWBieC9olU0bwkEOlOLpO6qVwt8qYZwdtjJGvS9OD1KEs36ZtzGQlDutc3h8tXxGvuNSKxTziq-bEtUWG7HqjcD7VXojSkPRNYV6P2MsOwut4DwcSEf60ZDy-zkvRohGau8fNvhawehyCrcR2VyZ6J5DTp2u-cYyVqTSl3Q8jRoQPxcMGo4TyoV5uu8ivQLHuB8SzRDHsEPiSrR8XEBA14svEmmMOMDWKY0k4JQSQVutFWbSi6Z_6uzxjaj498N7nCu6INXXLv4D4TYFdxOA",
+							"type": "string"
+						}
+					]
+				},
+				"method": "GET",
+				"header": [],
+				"url": {
+					"raw": "https://localhost:7141/User/Get_users",
+					"protocol": "https",
+					"host": [
+						"localhost"
+					],
+					"port": "7141",
+					"path": [
+						"User",
+						"Get_users"
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "User_GetUserID",
+			"request": {
+				"auth": {
+					"type": "bearer",
+					"bearer": [
+						{
+							"key": "token",
+							"value": "eyJhbGciOiJodHRwOi8vd3d3LnczLm9yZy8yMDAxLzA0L3htbGRzaWctbW9yZSNyc2Etc2hhMjU2IiwidHlwIjoiSldUIn0.eyJodHRwOi8vc2NoZW1hcy54bWxzb2FwLm9yZy93cy8yMDA1LzA1L2lkZW50aXR5L2NsYWltcy9uYW1laWRlbnRpZmllciI6ImRiOTY2N2Y0LTNlMDktNDU0Zi04NjBjLTFjMjZlMDM0MjhlMiIsImh0dHA6Ly9zY2hlbWFzLm1pY3Jvc29mdC5jb20vd3MvMjAwOC8wNi9pZGVudGl0eS9jbGFpbXMvcm9sZSI6IkFkbWluIiwiZXhwIjoxNzE3MzE2MDgxLCJpc3MiOiJodHRwczovL2xvY2FsaG9zdDo3MTQxIiwiYXVkIjoiaHR0cHM6Ly9sb2NhbGhvc3Q6NzE0MTsgaHR0cHM6Ly9sb2NhbGhvc3Q6NzEwODsgaHR0cHM6Ly9sb2NhbGhvc3Q6NzA2MyJ9.nsI4AItLBaW-rGeik_U1JWNZ98xHpBtpRkhxX7UOTXDNfrKdetUY7hkaz9l4llvGjCEWBieC9olU0bwkEOlOLpO6qVwt8qYZwdtjJGvS9OD1KEs36ZtzGQlDutc3h8tXxGvuNSKxTziq-bEtUWG7HqjcD7VXojSkPRNYV6P2MsOwut4DwcSEf60ZDy-zkvRohGau8fNvhawehyCrcR2VyZ6J5DTp2u-cYyVqTSl3Q8jRoQPxcMGo4TyoV5uu8ivQLHuB8SzRDHsEPiSrR8XEBA14svEmmMOMDWKY0k4JQSQVutFWbSi6Z_6uzxjaj498N7nCu6INXXLv4D4TYFdxOA",
+							"type": "string"
+						}
+					]
+				},
+				"method": "GET",
+				"header": [],
+				"url": {
+					"raw": "https://localhost:7141/User/Get_userID?email=admin@gmail.com",
+					"protocol": "https",
+					"host": [
+						"localhost"
+					],
+					"port": "7141",
+					"path": [
+						"User",
+						"Get_userID"
+					],
+					"query": [
+						{
+							"key": "email",
+							"value": "admin@gmail.com"
+						}
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "User_AddUser",
+			"request": {
+				"method": "POST",
+				"header": [],
+				"url": {
+					"raw": "https://localhost:7141/User/Add_user?Email=user1@gmail.com&Password=user1234",
+					"protocol": "https",
+					"host": [
+						"localhost"
+					],
+					"port": "7141",
+					"path": [
+						"User",
+						"Add_user"
+					],
+					"query": [
+						{
+							"key": "Email",
+							"value": "user1@gmail.com"
+						},
+						{
+							"key": "Password",
+							"value": "user1234"
+						}
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "User_DeleteUser",
+			"request": {
+				"auth": {
+					"type": "bearer",
+					"bearer": [
+						{
+							"key": "token",
+							"value": "eyJhbGciOiJodHRwOi8vd3d3LnczLm9yZy8yMDAxLzA0L3htbGRzaWctbW9yZSNyc2Etc2hhMjU2IiwidHlwIjoiSldUIn0.eyJodHRwOi8vc2NoZW1hcy54bWxzb2FwLm9yZy93cy8yMDA1LzA1L2lkZW50aXR5L2NsYWltcy9uYW1laWRlbnRpZmllciI6ImRiOTY2N2Y0LTNlMDktNDU0Zi04NjBjLTFjMjZlMDM0MjhlMiIsImh0dHA6Ly9zY2hlbWFzLm1pY3Jvc29mdC5jb20vd3MvMjAwOC8wNi9pZGVudGl0eS9jbGFpbXMvcm9sZSI6IkFkbWluIiwiZXhwIjoxNzE3MzE2MDgxLCJpc3MiOiJodHRwczovL2xvY2FsaG9zdDo3MTQxIiwiYXVkIjoiaHR0cHM6Ly9sb2NhbGhvc3Q6NzE0MTsgaHR0cHM6Ly9sb2NhbGhvc3Q6NzEwODsgaHR0cHM6Ly9sb2NhbGhvc3Q6NzA2MyJ9.nsI4AItLBaW-rGeik_U1JWNZ98xHpBtpRkhxX7UOTXDNfrKdetUY7hkaz9l4llvGjCEWBieC9olU0bwkEOlOLpO6qVwt8qYZwdtjJGvS9OD1KEs36ZtzGQlDutc3h8tXxGvuNSKxTziq-bEtUWG7HqjcD7VXojSkPRNYV6P2MsOwut4DwcSEf60ZDy-zkvRohGau8fNvhawehyCrcR2VyZ6J5DTp2u-cYyVqTSl3Q8jRoQPxcMGo4TyoV5uu8ivQLHuB8SzRDHsEPiSrR8XEBA14svEmmMOMDWKY0k4JQSQVutFWbSi6Z_6uzxjaj498N7nCu6INXXLv4D4TYFdxOA",
+							"type": "string"
+						}
+					]
+				},
+				"method": "POST",
+				"header": [],
+				"url": {
+					"raw": "https://localhost:7141/User/Delete_user?email=user1@gmail.com",
+					"protocol": "https",
+					"host": [
+						"localhost"
+					],
+					"port": "7141",
+					"path": [
+						"User",
+						"Delete_user"
+					],
+					"query": [
+						{
+							"key": "email",
+							"value": "user1@gmail.com"
+						}
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "Message_Send",
+			"request": {
+				"auth": {
+					"type": "bearer",
+					"bearer": [
+						{
+							"key": "token",
+							"value": "eyJhbGciOiJodHRwOi8vd3d3LnczLm9yZy8yMDAxLzA0L3htbGRzaWctbW9yZSNyc2Etc2hhMjU2IiwidHlwIjoiSldUIn0.eyJodHRwOi8vc2NoZW1hcy54bWxzb2FwLm9yZy93cy8yMDA1LzA1L2lkZW50aXR5L2NsYWltcy9uYW1laWRlbnRpZmllciI6ImRiOTY2N2Y0LTNlMDktNDU0Zi04NjBjLTFjMjZlMDM0MjhlMiIsImh0dHA6Ly9zY2hlbWFzLm1pY3Jvc29mdC5jb20vd3MvMjAwOC8wNi9pZGVudGl0eS9jbGFpbXMvcm9sZSI6IkFkbWluIiwiZXhwIjoxNzE3MzE2MDgxLCJpc3MiOiJodHRwczovL2xvY2FsaG9zdDo3MTQxIiwiYXVkIjoiaHR0cHM6Ly9sb2NhbGhvc3Q6NzE0MTsgaHR0cHM6Ly9sb2NhbGhvc3Q6NzEwODsgaHR0cHM6Ly9sb2NhbGhvc3Q6NzA2MyJ9.nsI4AItLBaW-rGeik_U1JWNZ98xHpBtpRkhxX7UOTXDNfrKdetUY7hkaz9l4llvGjCEWBieC9olU0bwkEOlOLpO6qVwt8qYZwdtjJGvS9OD1KEs36ZtzGQlDutc3h8tXxGvuNSKxTziq-bEtUWG7HqjcD7VXojSkPRNYV6P2MsOwut4DwcSEf60ZDy-zkvRohGau8fNvhawehyCrcR2VyZ6J5DTp2u-cYyVqTSl3Q8jRoQPxcMGo4TyoV5uu8ivQLHuB8SzRDHsEPiSrR8XEBA14svEmmMOMDWKY0k4JQSQVutFWbSi6Z_6uzxjaj498N7nCu6INXXLv4D4TYFdxOA",
+							"type": "string"
+						}
+					]
+				},
+				"method": "POST",
+				"header": [],
+				"url": {
+					"raw": "https://localhost:7108/Message/Отправить сообщение?Text=HiHiHi&ToUser=\"db9667f4-3e09-454f-860c-1c26e03428e2\"",
+					"protocol": "https",
+					"host": [
+						"localhost"
+					],
+					"port": "7108",
+					"path": [
+						"Message",
+						"Отправить сообщение"
+					],
+					"query": [
+						{
+							"key": "Text",
+							"value": "HiHiHi"
+						},
+						{
+							"key": "ToUser",
+							"value": "\"db9667f4-3e09-454f-860c-1c26e03428e2\""
+						}
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "Message_Get",
+			"request": {
+				"auth": {
+					"type": "bearer",
+					"bearer": [
+						{
+							"key": "token",
+							"value": "eyJhbGciOiJodHRwOi8vd3d3LnczLm9yZy8yMDAxLzA0L3htbGRzaWctbW9yZSNyc2Etc2hhMjU2IiwidHlwIjoiSldUIn0.eyJodHRwOi8vc2NoZW1hcy54bWxzb2FwLm9yZy93cy8yMDA1LzA1L2lkZW50aXR5L2NsYWltcy9uYW1laWRlbnRpZmllciI6ImRiOTY2N2Y0LTNlMDktNDU0Zi04NjBjLTFjMjZlMDM0MjhlMiIsImh0dHA6Ly9zY2hlbWFzLm1pY3Jvc29mdC5jb20vd3MvMjAwOC8wNi9pZGVudGl0eS9jbGFpbXMvcm9sZSI6IkFkbWluIiwiZXhwIjoxNzE3MzE2MDgxLCJpc3MiOiJodHRwczovL2xvY2FsaG9zdDo3MTQxIiwiYXVkIjoiaHR0cHM6Ly9sb2NhbGhvc3Q6NzE0MTsgaHR0cHM6Ly9sb2NhbGhvc3Q6NzEwODsgaHR0cHM6Ly9sb2NhbGhvc3Q6NzA2MyJ9.nsI4AItLBaW-rGeik_U1JWNZ98xHpBtpRkhxX7UOTXDNfrKdetUY7hkaz9l4llvGjCEWBieC9olU0bwkEOlOLpO6qVwt8qYZwdtjJGvS9OD1KEs36ZtzGQlDutc3h8tXxGvuNSKxTziq-bEtUWG7HqjcD7VXojSkPRNYV6P2MsOwut4DwcSEf60ZDy-zkvRohGau8fNvhawehyCrcR2VyZ6J5DTp2u-cYyVqTSl3Q8jRoQPxcMGo4TyoV5uu8ivQLHuB8SzRDHsEPiSrR8XEBA14svEmmMOMDWKY0k4JQSQVutFWbSi6Z_6uzxjaj498N7nCu6INXXLv4D4TYFdxOA",
+							"type": "string"
+						}
+					]
+				},
+				"method": "GET",
+				"header": [],
+				"url": {
+					"raw": "https://localhost:7108/Message/Получить сообщения",
+					"protocol": "https",
+					"host": [
+						"localhost"
+					],
+					"port": "7108",
+					"path": [
+						"Message",
+						"Получить сообщения"
+					]
+				}
+			},
+			"response": []
+		}
+	]
+}

@@ -1,53 +1,38 @@
+using Ocelot.DependencyInjection;
+using Ocelot.Middleware;
 
-namespace MyChat
+namespace MyChat.MyChat;
+
+public class Program
 {
-    public class Program
+    public static void Main(string[] args)
     {
-        public static void Main(string[] args)
+        var builder = WebApplication.CreateBuilder(args);
+        builder.Services.AddEndpointsApiExplorer();
+        builder.Services.AddSwaggerGen();
+
+        IConfiguration config = new ConfigurationBuilder().AddJsonFile("ocelot.json").Build();
+
+        builder.Services.AddOcelot(config);
+        builder.Services.AddSwaggerForOcelot(config);
+        var app = builder.Build();
+
+        app.UseSwagger();
+        app.UseSwaggerForOcelotUI(opt =>
         {
-            var builder = WebApplication.CreateBuilder(args);
+            opt.PathToSwaggerGenerator = "/swagger/docs";
+        }).UseOcelot().Wait();
 
-            // Add services to the container.
-            builder.Services.AddAuthorization();
 
-            // Learn more about configuring Swagger/OpenAPI at https://aka.ms/aspnetcore/swashbuckle
-            builder.Services.AddEndpointsApiExplorer();
-            builder.Services.AddSwaggerGen();
+        //app.UseSwaggerUI();
 
-            var app = builder.Build();
 
-            // Configure the HTTP request pipeline.
-            if (app.Environment.IsDevelopment())
-            {
-                app.UseSwagger();
-                app.UseSwaggerUI();
-            }
+        app.UseHttpsRedirection();
 
-            app.UseHttpsRedirection();
+        app.UseAuthorization();
 
-            app.UseAuthorization();
+        app.MapControllers();
 
-            var summaries = new[]
-            {
-                "Freezing", "Bracing", "Chilly", "Cool", "Mild", "Warm", "Balmy", "Hot", "Sweltering", "Scorching"
-            };
-
-            app.MapGet("/weatherforecast", (HttpContext httpContext) =>
-            {
-                var forecast = Enumerable.Range(1, 5).Select(index =>
-                    new WeatherForecast
-                    {
-                        Date = DateOnly.FromDateTime(DateTime.Now.AddDays(index)),
-                        TemperatureC = Random.Shared.Next(-20, 55),
-                        Summary = summaries[Random.Shared.Next(summaries.Length)]
-                    })
-                    .ToArray();
-                return forecast;
-            })
-            .WithName("GetWeatherForecast")
-            .WithOpenApi();
-
-            app.Run();
-        }
+        app.Run();
     }
 }

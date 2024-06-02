@@ -28,7 +28,7 @@ namespace Chat.Test
 
         public void InitializeClient(ChatClient chatClient)
         {
-            ChatClient = chatClient;
+            _chatClient = chatClient;
         }
 
         public MockMessagesClient(int port, string adress = "127.0.0.1", int portServer = 12345)

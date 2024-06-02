@@ -9,11 +9,15 @@ using Microsoft.OpenApi.Models;
 using System.Security.Cryptography;
 using Autofac.Extensions.DependencyInjection;
 using Autofac;
+using Autofac.Core;
+using Microsoft.AspNetCore.Identity;
+using UserWorker.DbModels;
+using UserWorker.Db;
 
 
 
 
-namespace MyChat
+namespace UserWorker
 {
     
     public class Program
@@ -34,12 +38,9 @@ namespace MyChat
             builder.Services.AddAutoMapper(typeof(MappingProfile));
             builder.Services.AddMemoryCache(x => x.TrackStatistics = true);
             builder.Services.AddEndpointsApiExplorer();
+            builder.Services.AddSwaggerGen();
 
-            
 
-            //builder.Services.AddScoped<IUserAuthenticationService, AuthenticationMock>();
-
-            
             builder.Services.AddSwaggerGen(opt =>
             {
                 opt.AddSecurityDefinition("Bearer", new OpenApiSecurityScheme
@@ -81,9 +82,9 @@ namespace MyChat
                 opt.TokenValidationParameters = new TokenValidationParameters
                 {
                     ValidateIssuer = true,
-                    ValidateAudience = true,
+                    ValidateAudience = false,
                     ValidateLifetime = true,
-                    ValidateIssuerSigningKey = true,
+                    ValidateIssuerSigningKey = false,
                     ValidIssuer = builder.Configuration["JwtConfiguration:Issuer"],
                     ValidAudience = builder.Configuration["JwtConfiguration:Audience"],
                     IssuerSigningKey = new RsaSecurityKey(GetPublicKey())
@@ -91,7 +92,7 @@ namespace MyChat
                 };
             });
 
-          
+
 
             var app = builder.Build();
             

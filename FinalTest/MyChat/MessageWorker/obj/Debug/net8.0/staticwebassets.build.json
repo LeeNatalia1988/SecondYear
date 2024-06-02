@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "f5gZ321uKfZ9JtTlgxvF1s7RIMiuykezv47pI0DXSCc=",
+  "Source": "MessageWorker",
+  "BasePath": "_content/MessageWorker",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

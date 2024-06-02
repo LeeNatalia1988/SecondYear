@@ -39,7 +39,7 @@ namespace Chat.Test
             var mock1 = new MockMessagesSource();
             var server = new ChatServer(mock1);
             mock1.InitializeServer(server);
-            server.Work();
+            server.Work();  
 
             using (var context = new ChatContext())
             {

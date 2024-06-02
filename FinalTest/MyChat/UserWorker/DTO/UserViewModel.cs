@@ -1,4 +1,5 @@
-﻿using System.ComponentModel.DataAnnotations;
+﻿using System.ComponentModel;
+using System.ComponentModel.DataAnnotations;
 
 namespace UserWorker.DTO
 {
@@ -7,8 +8,10 @@ namespace UserWorker.DTO
         [Required]
         [EmailAddress]
         public string Email { get; set; }
+
         [Required]
+        [DataType(DataType.Password)]
+        [StringLength(100, MinimumLength = 6, ErrorMessage = "Слишком короткий пароль.")]
         public string Password { get; set; }
-      
     }
 }

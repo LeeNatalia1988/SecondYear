@@ -1,49 +1,8 @@
 [
   {
-    "ContainingType": "UserWorker.Controllers.LoginController",
-    "Method": "Login",
-    "RelativePath": "Login/\u041F\u043E\u043B\u0443\u0447\u0438\u0442\u044C token",
-    "HttpMethod": "POST",
-    "IsController": true,
-    "Order": 0,
-    "Parameters": [
-      {
-        "Name": "Email",
-        "Type": "System.String",
-        "IsRequired": false
-      },
-      {
-        "Name": "Password",
-        "Type": "System.String",
-        "IsRequired": false
-      }
-    ],
-    "ReturnTypes": []
-  },
-  {
-    "ContainingType": "UserWorker.Controllers.RestrictedController",
-    "Method": "AdminEndPoint",
-    "RelativePath": "Restricted/\u041F\u043E\u0434\u0442\u0432\u0435\u0440\u0434\u0438\u0442\u044C (Admin)",
-    "HttpMethod": "GET",
-    "IsController": true,
-    "Order": 0,
-    "Parameters": [],
-    "ReturnTypes": []
-  },
-  {
-    "ContainingType": "UserWorker.Controllers.RestrictedController",
-    "Method": "UserEndPoint",
-    "RelativePath": "Restricted/\u041F\u043E\u0434\u0442\u0432\u0435\u0440\u0434\u0438\u0442\u044C (Users)",
-    "HttpMethod": "GET",
-    "IsController": true,
-    "Order": 0,
-    "Parameters": [],
-    "ReturnTypes": []
-  },
-  {
     "ContainingType": "UserWorker.Controllers.UserController",
     "Method": "AddAdmin",
-    "RelativePath": "User/\u0414\u043E\u0431\u0430\u0432\u0438\u0442\u044C \u0430\u0434\u043C\u0438\u043D\u0430 (\u0434\u043E\u0441\u0442\u0443\u043F \u0434\u043B\u044F \u0432\u0441\u0435\u0445)",
+    "RelativePath": "User/Add_admin",
     "HttpMethod": "POST",
     "IsController": true,
     "Order": 0,
@@ -64,7 +23,7 @@
   {
     "ContainingType": "UserWorker.Controllers.UserController",
     "Method": "AddUser",
-    "RelativePath": "User/\u0414\u043E\u0431\u0430\u0432\u0438\u0442\u044C \u043F\u043E\u043B\u044C\u0437\u043E\u0432\u0430\u0442\u0435\u043B\u044F (\u0434\u043E\u0441\u0442\u0443\u043F \u0434\u043B\u044F \u0432\u0441\u0435\u0445)",
+    "RelativePath": "User/Add_user",
     "HttpMethod": "POST",
     "IsController": true,
     "Order": 0,
@@ -84,28 +43,45 @@
   },
   {
     "ContainingType": "UserWorker.Controllers.UserController",
-    "Method": "GetUsers",
-    "RelativePath": "User/\u041F\u043E\u0441\u043C\u043E\u0442\u0440\u0435\u0442\u044C \u0441\u043F\u0438\u0441\u043E\u043A \u043F\u043E\u043B\u044C\u0437\u043E\u0432\u0430\u0442\u0435\u043B\u0435\u0439 (\u0434\u043E\u0441\u0442\u0443\u043F \u0434\u043B\u044F \u0432\u0441\u0435\u0445)",
-    "HttpMethod": "GET",
+    "Method": "DeleteUser",
+    "RelativePath": "User/Delete_user",
+    "HttpMethod": "POST",
     "IsController": true,
     "Order": 0,
-    "Parameters": [],
-    "ReturnTypes": [
+    "Parameters": [
       {
-        "Type": "System.Collections.Generic.IEnumerable\u00601[[UserWorker.DTO.UserViewModelWithoutPassword, UserWorker, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]",
-        "MediaTypes": [
-          "text/plain",
-          "application/json",
-          "text/json"
-        ],
-        "StatusCode": 200
+        "Name": "email",
+        "Type": "System.String",
+        "IsRequired": false
       }
-    ]
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "UserWorker.Controllers.UserController",
+    "Method": "Login",
+    "RelativePath": "User/Get_token",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "Email",
+        "Type": "System.String",
+        "IsRequired": false
+      },
+      {
+        "Name": "Password",
+        "Type": "System.String",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": []
   },
   {
     "ContainingType": "UserWorker.Controllers.UserController",
     "Method": "GetUserID",
-    "RelativePath": "User/\u041F\u043E\u0441\u043C\u043E\u0442\u0440\u0435\u0442\u044C ID \u043F\u043E\u043B\u044C\u0437\u043E\u0432\u0430\u0442\u0435\u043B\u044F (\u0434\u043E\u0441\u0442\u0443\u043F \u0434\u043B\u044F \u0432\u0441\u0435\u0445)",
+    "RelativePath": "User/Get_userID",
     "HttpMethod": "GET",
     "IsController": true,
     "Order": 0,
@@ -130,18 +106,22 @@
   },
   {
     "ContainingType": "UserWorker.Controllers.UserController",
-    "Method": "DeleteUser",
-    "RelativePath": "User/\u0423\u0434\u0430\u043B\u0438\u0442\u044C \u043F\u043E\u043B\u044C\u0437\u043E\u0432\u0430\u0442\u0435\u043B\u044F (\u0434\u043E\u0441\u0442\u0443\u043F \u0442\u043E\u043B\u044C\u043A\u043E \u0434\u043B\u044F \u0430\u0434\u043C\u0438\u043D\u0438\u0441\u0442\u0440\u0430\u0442\u043E\u0440\u0430)",
-    "HttpMethod": "DELETE",
+    "Method": "GetUsers",
+    "RelativePath": "User/Get_users",
+    "HttpMethod": "GET",
     "IsController": true,
     "Order": 0,
-    "Parameters": [
+    "Parameters": [],
+    "ReturnTypes": [
       {
-        "Name": "email",
-        "Type": "System.String",
-        "IsRequired": false
+        "Type": "System.Collections.Generic.IEnumerable\u00601[[UserWorker.DTO.UserViewModelWithoutPassword, UserWorker, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
       }
-    ],
-    "ReturnTypes": []
+    ]
   }
 ]

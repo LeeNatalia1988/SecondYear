@@ -144,3 +144,5 @@ C:\GeekBrains\SecondYear\FinalTest\MyChat\UserWorker\obj\Debug\net8.0\ref\UserWo
 C:\GeekBrains\SecondYear\FinalTest\MyChat\UserWorker\bin\Debug\net8.0\Microsoft.AspNetCore.OpenApi.dll
 C:\GeekBrains\SecondYear\FinalTest\MyChat\UserWorker\bin\Debug\net8.0\Autofac.dll
 C:\GeekBrains\SecondYear\FinalTest\MyChat\UserWorker\bin\Debug\net8.0\Autofac.Extensions.DependencyInjection.dll
+C:\GeekBrains\SecondYear\FinalTest\MyChat\UserWorker\bin\Debug\net8.0\nunit.framework.dll
+C:\GeekBrains\SecondYear\FinalTest\MyChat\UserWorker\bin\Debug\net8.0\nunit.framework.legacy.dll

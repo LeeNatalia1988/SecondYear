@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "3velpBER5c3zEc13GQ6KyCvpa1wSBnhXU+LLY5F4lZyBABnhy9IBp7dHqlqWYK+2GppE4wwSt8wBLuBCyDnTCg==",
+  "dgSpecHash": "O7y7GaF4CEaqo/EVDP4XMg62Nc8DuDCsN8TZXimx+2cpZ2dvEMS6GJcQ1qVBexr3X/YFNlas9BqzHfZDA2sHsw==",
   "success": true,
   "projectFilePath": "C:\\GeekBrains\\SecondYear\\FinalTest\\MyChat\\UserWorker\\UserWorker.csproj",
   "expectedPackageFiles": [
@@ -53,6 +53,7 @@
     "C:\\Users\\mosal\\.nuget\\packages\\mono.texttemplating\\2.2.1\\mono.texttemplating.2.2.1.nupkg.sha512",
     "C:\\Users\\mosal\\.nuget\\packages\\npgsql\\8.0.3\\npgsql.8.0.3.nupkg.sha512",
     "C:\\Users\\mosal\\.nuget\\packages\\npgsql.entityframeworkcore.postgresql\\8.0.4\\npgsql.entityframeworkcore.postgresql.8.0.4.nupkg.sha512",
+    "C:\\Users\\mosal\\.nuget\\packages\\nunit\\4.1.0\\nunit.4.1.0.nupkg.sha512",
     "C:\\Users\\mosal\\.nuget\\packages\\swashbuckle.aspnetcore\\6.4.0\\swashbuckle.aspnetcore.6.4.0.nupkg.sha512",
     "C:\\Users\\mosal\\.nuget\\packages\\swashbuckle.aspnetcore.swagger\\6.4.0\\swashbuckle.aspnetcore.swagger.6.4.0.nupkg.sha512",
     "C:\\Users\\mosal\\.nuget\\packages\\swashbuckle.aspnetcore.swaggergen\\6.4.0\\swashbuckle.aspnetcore.swaggergen.6.4.0.nupkg.sha512",
